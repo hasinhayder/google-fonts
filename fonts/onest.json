@@ -1,0 +1,26 @@
+{
+  "family": "Onest",
+  "slug": "onest",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v9",
+  "lastModified": "2025-09-10"
+}

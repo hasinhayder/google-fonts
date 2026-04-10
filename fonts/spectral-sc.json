@@ -1,0 +1,32 @@
+{
+  "family": "Spectral SC",
+  "slug": "spectral-sc",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "200",
+    "200italic",
+    "300",
+    "300italic",
+    "regular",
+    "italic",
+    "500",
+    "500italic",
+    "600",
+    "600italic",
+    "700",
+    "700italic",
+    "800",
+    "800italic"
+  ],
+  "version": "v15",
+  "lastModified": "2025-09-02"
+}

@@ -1,0 +1,18 @@
+{
+  "family": "Redacted Script",
+  "slug": "redacted-script",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "700"
+  ],
+  "version": "v12",
+  "lastModified": "2025-09-17"
+}

@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Batak",
+  "slug": "noto-sans-batak",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "batak",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v23",
+  "lastModified": "2025-08-26"
+}

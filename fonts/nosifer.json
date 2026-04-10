@@ -1,0 +1,16 @@
+{
+  "family": "Nosifer",
+  "slug": "nosifer",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v23",
+  "lastModified": "2025-06-02"
+}

@@ -1,0 +1,29 @@
+{
+  "family": "Mali",
+  "slug": "mali",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "thai",
+    "vietnamese"
+  ],
+  "variants": [
+    "200",
+    "200italic",
+    "300",
+    "300italic",
+    "regular",
+    "italic",
+    "500",
+    "500italic",
+    "600",
+    "600italic",
+    "700",
+    "700italic"
+  ],
+  "version": "v13",
+  "lastModified": "2025-09-08"
+}

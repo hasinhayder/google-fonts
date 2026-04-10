@@ -1,0 +1,22 @@
+{
+  "family": "David Libre",
+  "slug": "david-libre",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "hebrew",
+    "latin",
+    "latin-ext",
+    "math",
+    "symbols",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "700"
+  ],
+  "version": "v17",
+  "lastModified": "2025-09-10"
+}

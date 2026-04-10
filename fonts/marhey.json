@@ -1,0 +1,21 @@
+{
+  "family": "Marhey",
+  "slug": "marhey",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "arabic",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v8",
+  "lastModified": "2025-09-08"
+}

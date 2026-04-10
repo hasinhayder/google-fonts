@@ -1,0 +1,27 @@
+{
+  "family": "Funnel Sans",
+  "slug": "funnel-sans",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "300italic",
+    "italic",
+    "500italic",
+    "600italic",
+    "700italic",
+    "800italic"
+  ],
+  "version": "v3",
+  "lastModified": "2025-09-08"
+}

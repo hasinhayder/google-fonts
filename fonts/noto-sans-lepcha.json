@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Lepcha",
+  "slug": "noto-sans-lepcha",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "lepcha"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v20",
+  "lastModified": "2025-09-08"
+}

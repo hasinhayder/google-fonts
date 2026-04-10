@@ -1,0 +1,29 @@
+{
+  "family": "Atkinson Hyperlegible Next",
+  "slug": "atkinson-hyperlegible-next",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "200italic",
+    "300italic",
+    "italic",
+    "500italic",
+    "600italic",
+    "700italic",
+    "800italic"
+  ],
+  "version": "v7",
+  "lastModified": "2025-09-05"
+}

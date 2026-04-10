@@ -1,0 +1,17 @@
+{
+  "family": "Ruthie",
+  "slug": "ruthie",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v28",
+  "lastModified": "2025-09-16"
+}

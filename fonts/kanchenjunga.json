@@ -1,0 +1,19 @@
+{
+  "family": "Kanchenjunga",
+  "slug": "kanchenjunga",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "kirat-rai",
+    "latin"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v2",
+  "lastModified": "2025-04-23"
+}

@@ -1,0 +1,19 @@
+{
+  "family": "Honk",
+  "slug": "honk",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "math",
+    "symbols",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v6",
+  "lastModified": "2025-09-05"
+}

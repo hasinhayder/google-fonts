@@ -1,0 +1,33 @@
+{
+  "family": "Sour Gummy",
+  "slug": "sour-gummy",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900",
+    "100italic",
+    "200italic",
+    "300italic",
+    "italic",
+    "500italic",
+    "600italic",
+    "700italic",
+    "800italic",
+    "900italic"
+  ],
+  "version": "v3",
+  "lastModified": "2025-09-10"
+}

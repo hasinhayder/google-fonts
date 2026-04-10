@@ -1,0 +1,26 @@
+{
+  "family": "Teachers",
+  "slug": "teachers",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "greek-ext",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "italic",
+    "500italic",
+    "600italic",
+    "700italic",
+    "800italic"
+  ],
+  "version": "v6",
+  "lastModified": "2025-09-08"
+}

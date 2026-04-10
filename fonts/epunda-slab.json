@@ -1,0 +1,29 @@
+{
+  "family": "Epunda Slab",
+  "slug": "epunda-slab",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900",
+    "300italic",
+    "italic",
+    "500italic",
+    "600italic",
+    "700italic",
+    "800italic",
+    "900italic"
+  ],
+  "version": "v2",
+  "lastModified": "2025-08-26"
+}

@@ -1,0 +1,16 @@
+{
+  "family": "Shojumaru",
+  "slug": "shojumaru",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v16",
+  "lastModified": "2025-09-11"
+}

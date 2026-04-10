@@ -1,0 +1,15 @@
+{
+  "family": "Permanent Marker",
+  "slug": "permanent-marker",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v16",
+  "lastModified": "2025-05-30"
+}

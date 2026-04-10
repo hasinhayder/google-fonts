@@ -1,0 +1,19 @@
+{
+  "family": "Special Gothic",
+  "slug": "special-gothic",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v3",
+  "lastModified": "2025-07-30"
+}

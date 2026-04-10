@@ -1,0 +1,24 @@
+{
+  "family": "Carlito",
+  "slug": "carlito",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "greek-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "italic",
+    "700",
+    "700italic"
+  ],
+  "version": "v4",
+  "lastModified": "2025-09-08"
+}

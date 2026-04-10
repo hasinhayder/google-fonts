@@ -1,0 +1,16 @@
+{
+  "family": "Ultra",
+  "slug": "ultra",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v25",
+  "lastModified": "2025-06-02"
+}

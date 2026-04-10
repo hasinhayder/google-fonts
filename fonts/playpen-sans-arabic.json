@@ -1,0 +1,26 @@
+{
+  "family": "Playpen Sans Arabic",
+  "slug": "playpen-sans-arabic",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "arabic",
+    "emoji",
+    "latin",
+    "latin-ext",
+    "math"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800"
+  ],
+  "version": "v8",
+  "lastModified": "2025-09-10"
+}

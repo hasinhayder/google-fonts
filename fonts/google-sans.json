@@ -1,0 +1,46 @@
+{
+  "family": "Google Sans",
+  "slug": "google-sans",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "armenian",
+    "bengali",
+    "canadian-aboriginal",
+    "cyrillic",
+    "cyrillic-ext",
+    "devanagari",
+    "ethiopic",
+    "georgian",
+    "greek",
+    "greek-ext",
+    "gujarati",
+    "gurmukhi",
+    "hebrew",
+    "khmer",
+    "lao",
+    "latin",
+    "latin-ext",
+    "malayalam",
+    "oriya",
+    "sinhala",
+    "symbols",
+    "tamil",
+    "telugu",
+    "thai",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700",
+    "italic",
+    "500italic",
+    "600italic",
+    "700italic"
+  ],
+  "version": "v67",
+  "lastModified": "2025-12-10"
+}

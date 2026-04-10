@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Nushu",
+  "slug": "noto-sans-nushu",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "nushu"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v20",
+  "lastModified": "2025-09-16"
+}

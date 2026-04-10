@@ -1,0 +1,20 @@
+{
+  "family": "Chathura",
+  "slug": "chathura",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "telugu"
+  ],
+  "variants": [
+    "100",
+    "300",
+    "regular",
+    "700",
+    "800"
+  ],
+  "version": "v22",
+  "lastModified": "2025-09-16"
+}

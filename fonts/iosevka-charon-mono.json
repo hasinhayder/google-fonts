@@ -1,0 +1,33 @@
+{
+  "family": "Iosevka Charon Mono",
+  "slug": "iosevka-charon-mono",
+  "categories": [
+    "monospace"
+  ],
+  "subsets": [
+    "armenian",
+    "braille",
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "greek-ext",
+    "latin",
+    "latin-ext",
+    "math",
+    "symbols",
+    "symbols2",
+    "vietnamese"
+  ],
+  "variants": [
+    "300",
+    "300italic",
+    "regular",
+    "italic",
+    "500",
+    "500italic",
+    "700",
+    "700italic"
+  ],
+  "version": "v1",
+  "lastModified": "2026-03-11"
+}

@@ -1,0 +1,19 @@
+{
+  "family": "Enriqueta",
+  "slug": "enriqueta",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v19",
+  "lastModified": "2025-09-16"
+}

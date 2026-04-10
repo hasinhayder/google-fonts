@@ -1,0 +1,16 @@
+{
+  "family": "Stalemate",
+  "slug": "stalemate",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v24",
+  "lastModified": "2025-09-10"
+}

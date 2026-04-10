@@ -1,0 +1,24 @@
+{
+  "family": "Menbere",
+  "slug": "menbere",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "ethiopic",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v1",
+  "lastModified": "2025-06-25"
+}

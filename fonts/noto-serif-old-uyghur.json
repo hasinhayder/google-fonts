@@ -1,0 +1,17 @@
+{
+  "family": "Noto Serif Old Uyghur",
+  "slug": "noto-serif-old-uyghur",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "old-uyghur"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v4",
+  "lastModified": "2024-09-23"
+}

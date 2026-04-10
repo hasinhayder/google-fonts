@@ -1,0 +1,23 @@
+{
+  "family": "Zen Maru Gothic",
+  "slug": "zen-maru-gothic",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "greek",
+    "japanese",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "500",
+    "700",
+    "900"
+  ],
+  "version": "v19",
+  "lastModified": "2025-06-25"
+}

@@ -1,0 +1,19 @@
+{
+  "family": "Buenard",
+  "slug": "buenard",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v22",
+  "lastModified": "2025-09-08"
+}

@@ -1,0 +1,19 @@
+{
+  "family": "Chocolate Classical Sans",
+  "slug": "chocolate-classical-sans",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "chinese-traditional",
+    "cyrillic",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v16",
+  "lastModified": "2026-03-11"
+}

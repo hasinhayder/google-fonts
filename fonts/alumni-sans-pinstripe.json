@@ -1,0 +1,20 @@
+{
+  "family": "Alumni Sans Pinstripe",
+  "slug": "alumni-sans-pinstripe",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "italic"
+  ],
+  "version": "v8",
+  "lastModified": "2025-09-16"
+}

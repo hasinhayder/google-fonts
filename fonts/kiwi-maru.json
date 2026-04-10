@@ -1,0 +1,20 @@
+{
+  "family": "Kiwi Maru",
+  "slug": "kiwi-maru",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "japanese",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "500"
+  ],
+  "version": "v20",
+  "lastModified": "2025-09-11"
+}

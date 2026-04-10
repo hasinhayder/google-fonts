@@ -1,0 +1,25 @@
+{
+  "family": "Noto Sans Thaana",
+  "slug": "noto-sans-thaana",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "thaana"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v26",
+  "lastModified": "2025-09-05"
+}

@@ -1,0 +1,30 @@
+{
+  "family": "Ysabeau SC",
+  "slug": "ysabeau-sc",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "latin",
+    "latin-ext",
+    "math",
+    "symbols",
+    "vietnamese"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v4",
+  "lastModified": "2025-09-16"
+}

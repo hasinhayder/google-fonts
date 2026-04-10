@@ -1,0 +1,18 @@
+{
+  "family": "Braah One",
+  "slug": "braah-one",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "gurmukhi",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v8",
+  "lastModified": "2025-09-11"
+}

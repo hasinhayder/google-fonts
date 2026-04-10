@@ -1,0 +1,18 @@
+{
+  "family": "Tiro Kannada",
+  "slug": "tiro-kannada",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "kannada",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "italic"
+  ],
+  "version": "v6",
+  "lastModified": "2025-05-30"
+}

@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Takri",
+  "slug": "noto-sans-takri",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "takri"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v25",
+  "lastModified": "2025-09-05"
+}

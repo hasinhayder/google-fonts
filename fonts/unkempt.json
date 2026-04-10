@@ -1,0 +1,16 @@
+{
+  "family": "Unkempt",
+  "slug": "unkempt",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v22",
+  "lastModified": "2025-06-02"
+}

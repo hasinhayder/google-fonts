@@ -1,0 +1,19 @@
+{
+  "family": "Almendra",
+  "slug": "almendra",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "italic",
+    "700",
+    "700italic"
+  ],
+  "version": "v28",
+  "lastModified": "2025-09-05"
+}

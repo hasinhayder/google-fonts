@@ -1,0 +1,25 @@
+{
+  "family": "Martian Mono",
+  "slug": "martian-mono",
+  "categories": [
+    "monospace"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800"
+  ],
+  "version": "v6",
+  "lastModified": "2025-09-16"
+}

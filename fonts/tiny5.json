@@ -1,0 +1,19 @@
+{
+  "family": "Tiny5",
+  "slug": "tiny5",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v3",
+  "lastModified": "2025-05-30"
+}

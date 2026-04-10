@@ -1,0 +1,16 @@
+{
+  "family": "Black Han Sans",
+  "slug": "black-han-sans",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "korean",
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v24",
+  "lastModified": "2025-09-10"
+}

@@ -1,0 +1,20 @@
+{
+  "family": "Annapurna SIL",
+  "slug": "annapurna-sil",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "devanagari",
+    "latin",
+    "latin-ext",
+    "math",
+    "symbols"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v2",
+  "lastModified": "2025-05-30"
+}

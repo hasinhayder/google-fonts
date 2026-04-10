@@ -1,0 +1,15 @@
+{
+  "family": "Ovo",
+  "slug": "ovo",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v18",
+  "lastModified": "2025-09-08"
+}

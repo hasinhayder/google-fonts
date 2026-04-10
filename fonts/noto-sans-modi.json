@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Modi",
+  "slug": "noto-sans-modi",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "modi"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v25",
+  "lastModified": "2025-09-10"
+}

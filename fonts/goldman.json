@@ -1,0 +1,18 @@
+{
+  "family": "Goldman",
+  "slug": "goldman",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v21",
+  "lastModified": "2025-09-11"
+}

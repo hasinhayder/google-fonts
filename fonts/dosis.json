@@ -1,0 +1,23 @@
+{
+  "family": "Dosis",
+  "slug": "dosis",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800"
+  ],
+  "version": "v34",
+  "lastModified": "2025-09-11"
+}

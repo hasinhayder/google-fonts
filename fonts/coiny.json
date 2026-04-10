@@ -1,0 +1,18 @@
+{
+  "family": "Coiny",
+  "slug": "coiny",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "tamil",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v17",
+  "lastModified": "2025-09-16"
+}

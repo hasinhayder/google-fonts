@@ -1,0 +1,21 @@
+{
+  "family": "Noto Traditional Nushu",
+  "slug": "noto-traditional-nushu",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "nushu"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v23",
+  "lastModified": "2025-09-11"
+}

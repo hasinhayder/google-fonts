@@ -1,0 +1,19 @@
+{
+  "family": "Noto Sans Meroitic",
+  "slug": "noto-sans-meroitic",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "meroitic",
+    "meroitic-cursive",
+    "meroitic-hieroglyphs"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v19",
+  "lastModified": "2025-09-05"
+}

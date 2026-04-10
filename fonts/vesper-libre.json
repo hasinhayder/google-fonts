@@ -1,0 +1,20 @@
+{
+  "family": "Vesper Libre",
+  "slug": "vesper-libre",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "devanagari",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "700",
+    "900"
+  ],
+  "version": "v21",
+  "lastModified": "2025-09-05"
+}

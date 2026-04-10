@@ -1,0 +1,20 @@
+{
+  "family": "Noto Nastaliq Urdu",
+  "slug": "noto-nastaliq-urdu",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "arabic",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v23",
+  "lastModified": "2025-09-02"
+}

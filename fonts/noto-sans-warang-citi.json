@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Warang Citi",
+  "slug": "noto-sans-warang-citi",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "warang-citi"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v19",
+  "lastModified": "2026-01-20"
+}

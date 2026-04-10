@@ -1,0 +1,29 @@
+{
+  "family": "M PLUS Rounded 1c",
+  "slug": "m-plus-rounded-1c",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "greek-ext",
+    "hebrew",
+    "japanese",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "100",
+    "300",
+    "regular",
+    "500",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v20",
+  "lastModified": "2026-01-07"
+}

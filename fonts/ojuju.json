@@ -1,0 +1,25 @@
+{
+  "family": "Ojuju",
+  "slug": "ojuju",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "math",
+    "symbols",
+    "vietnamese"
+  ],
+  "variants": [
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800"
+  ],
+  "version": "v5",
+  "lastModified": "2025-09-08"
+}

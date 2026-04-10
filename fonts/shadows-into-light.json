@@ -1,0 +1,16 @@
+{
+  "family": "Shadows Into Light",
+  "slug": "shadows-into-light",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v22",
+  "lastModified": "2025-09-10"
+}

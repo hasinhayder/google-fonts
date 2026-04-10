@@ -1,0 +1,18 @@
+{
+  "family": "Noto Sans Old Permic",
+  "slug": "noto-sans-old-permic",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic-ext",
+    "latin",
+    "latin-ext",
+    "old-permic"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v18",
+  "lastModified": "2025-09-10"
+}

@@ -1,0 +1,15 @@
+{
+  "family": "Playwrite AR Guides",
+  "slug": "playwrite-ar-guides",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v5",
+  "lastModified": "2025-05-30"
+}

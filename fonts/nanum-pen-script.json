@@ -1,0 +1,16 @@
+{
+  "family": "Nanum Pen Script",
+  "slug": "nanum-pen-script",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "korean",
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v25",
+  "lastModified": "2025-05-30"
+}

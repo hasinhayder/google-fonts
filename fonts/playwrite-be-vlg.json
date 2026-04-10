@@ -1,0 +1,18 @@
+{
+  "family": "Playwrite BE VLG",
+  "slug": "playwrite-be-vlg",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular"
+  ],
+  "version": "v6",
+  "lastModified": "2025-09-10"
+}

@@ -1,0 +1,20 @@
+{
+  "family": "Noto Sans Kayah Li",
+  "slug": "noto-sans-kayah-li",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "kayah-li",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v26",
+  "lastModified": "2025-09-16"
+}

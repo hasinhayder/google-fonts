@@ -1,0 +1,19 @@
+{
+  "family": "Comic Relief",
+  "slug": "comic-relief",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "cyrillic",
+    "greek",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v2",
+  "lastModified": "2025-04-23"
+}

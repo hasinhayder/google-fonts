@@ -1,0 +1,16 @@
+{
+  "family": "Dhurjati",
+  "slug": "dhurjati",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "telugu"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v27",
+  "lastModified": "2025-09-10"
+}

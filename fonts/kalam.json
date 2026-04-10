@@ -1,0 +1,19 @@
+{
+  "family": "Kalam",
+  "slug": "kalam",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "devanagari",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "700"
+  ],
+  "version": "v18",
+  "lastModified": "2025-09-11"
+}

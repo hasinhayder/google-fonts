@@ -1,0 +1,23 @@
+{
+  "family": "Zain",
+  "slug": "zain",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "arabic",
+    "latin"
+  ],
+  "variants": [
+    "200",
+    "300",
+    "300italic",
+    "regular",
+    "italic",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v4",
+  "lastModified": "2025-10-29"
+}

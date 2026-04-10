@@ -1,0 +1,19 @@
+{
+  "family": "Bad Script",
+  "slug": "bad-script",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v18",
+  "lastModified": "2025-09-02"
+}

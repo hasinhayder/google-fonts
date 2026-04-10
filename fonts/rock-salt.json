@@ -1,0 +1,15 @@
+{
+  "family": "Rock Salt",
+  "slug": "rock-salt",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v24",
+  "lastModified": "2025-09-08"
+}

@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Masaram Gondi",
+  "slug": "noto-sans-masaram-gondi",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "masaram-gondi"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v19",
+  "lastModified": "2026-01-20"
+}

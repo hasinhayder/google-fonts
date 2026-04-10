@@ -1,0 +1,18 @@
+{
+  "family": "Nanum Myeongjo",
+  "slug": "nanum-myeongjo",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "korean",
+    "latin"
+  ],
+  "variants": [
+    "regular",
+    "700",
+    "800"
+  ],
+  "version": "v31",
+  "lastModified": "2025-09-10"
+}

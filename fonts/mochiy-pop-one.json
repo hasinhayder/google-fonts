@@ -1,0 +1,16 @@
+{
+  "family": "Mochiy Pop One",
+  "slug": "mochiy-pop-one",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "japanese",
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v12",
+  "lastModified": "2025-09-08"
+}

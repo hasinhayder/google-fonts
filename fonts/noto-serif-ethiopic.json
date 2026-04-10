@@ -1,0 +1,25 @@
+{
+  "family": "Noto Serif Ethiopic",
+  "slug": "noto-serif-ethiopic",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "ethiopic",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v32",
+  "lastModified": "2025-09-11"
+}

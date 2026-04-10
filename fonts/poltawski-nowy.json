@@ -1,0 +1,24 @@
+{
+  "family": "Poltawski Nowy",
+  "slug": "poltawski-nowy",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700",
+    "italic",
+    "500italic",
+    "600italic",
+    "700italic"
+  ],
+  "version": "v5",
+  "lastModified": "2025-09-10"
+}

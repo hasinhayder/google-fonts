@@ -1,0 +1,25 @@
+{
+  "family": "Zilla Slab",
+  "slug": "zilla-slab",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "300",
+    "300italic",
+    "regular",
+    "italic",
+    "500",
+    "500italic",
+    "600",
+    "600italic",
+    "700",
+    "700italic"
+  ],
+  "version": "v12",
+  "lastModified": "2025-09-05"
+}

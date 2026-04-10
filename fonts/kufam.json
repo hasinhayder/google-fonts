@@ -1,0 +1,29 @@
+{
+  "family": "Kufam",
+  "slug": "kufam",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "arabic",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900",
+    "italic",
+    "500italic",
+    "600italic",
+    "700italic",
+    "800italic",
+    "900italic"
+  ],
+  "version": "v26",
+  "lastModified": "2025-09-02"
+}

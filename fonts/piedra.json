@@ -1,0 +1,16 @@
+{
+  "family": "Piedra",
+  "slug": "piedra",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v27",
+  "lastModified": "2025-09-05"
+}

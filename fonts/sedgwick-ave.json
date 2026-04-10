@@ -1,0 +1,17 @@
+{
+  "family": "Sedgwick Ave",
+  "slug": "sedgwick-ave",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v13",
+  "lastModified": "2025-09-08"
+}

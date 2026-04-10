@@ -1,0 +1,16 @@
+{
+  "family": "Doppio One",
+  "slug": "doppio-one",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v14",
+  "lastModified": "2025-09-10"
+}

@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Samaritan",
+  "slug": "noto-sans-samaritan",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "samaritan"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v17",
+  "lastModified": "2025-09-10"
+}

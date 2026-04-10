@@ -1,0 +1,18 @@
+{
+  "family": "Tiro Gurmukhi",
+  "slug": "tiro-gurmukhi",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "gurmukhi",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "italic"
+  ],
+  "version": "v6",
+  "lastModified": "2025-05-30"
+}

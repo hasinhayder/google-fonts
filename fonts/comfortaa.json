@@ -1,0 +1,24 @@
+{
+  "family": "Comfortaa",
+  "slug": "comfortaa",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v47",
+  "lastModified": "2025-09-08"
+}

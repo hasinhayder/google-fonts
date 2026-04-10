@@ -1,0 +1,16 @@
+{
+  "family": "Tangerine",
+  "slug": "tangerine",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v18",
+  "lastModified": "2025-09-11"
+}

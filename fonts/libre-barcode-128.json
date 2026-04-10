@@ -1,0 +1,15 @@
+{
+  "family": "Libre Barcode 128",
+  "slug": "libre-barcode-128",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v31",
+  "lastModified": "2025-09-17"
+}

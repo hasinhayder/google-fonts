@@ -1,0 +1,15 @@
+{
+  "family": "Montaga",
+  "slug": "montaga",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v14",
+  "lastModified": "2025-09-05"
+}

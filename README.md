@@ -64,10 +64,45 @@ Category and subset listing files use the same shape with a different key name:
 
 You can use these files to:
 
-- build font pickers or filters
-- generate subset-aware font previews
-- power search or autocomplete over Google Fonts families
-- keep a local snapshot of available font metadata
+- **Build font pickers & filters** — populate dropdowns, checkboxes, or searchable UIs with category and subset filters
+- **Generate subset-aware font previews** — show only the fonts that support a given script (e.g. Arabic, Bengali, Devanagari, Cyrillic)
+- **Power search or autocomplete** — load a lightweight JSON index instead of hitting an API or scraping
+- **Generate dynamic `@import` or `<link>` tags** — fetch the font family name from JSON and construct Google Fonts embed URLs on the fly
+- **Keep a local or CDN-cached snapshot** — avoid rate limits by using the structured JSON via jsDelivr instead of querying Google Fonts directly
+- **Feed into design systems & component libraries** — validate typography tokens against the real Google Fonts catalog
+- **Drive static site generation** — pre-render font preview cards, style guides, or comparison tables at build time
+
+## CDN Usage
+
+All JSON files are available via [jsDelivr](https://www.jsdelivr.com/) CDN:
+
+```
+https://cdn.jsdelivr.net/gh/hasinhayder/google-fonts/
+```
+
+### Examples
+
+```bash
+# Full font list
+curl https://cdn.jsdelivr.net/gh/hasinhayder/google-fonts/fonts.json
+
+# Full font list (latest tag)
+curl https://cdn.jsdelivr.net/gh/hasinhayder/google-fonts@latest/fonts.json
+
+# Fonts in a specific subset and category
+curl https://cdn.jsdelivr.net/gh/hasinhayder/google-fonts/subsets/latin/display/fonts.json
+
+# Fonts in a specific category and subset
+curl https://cdn.jsdelivr.net/gh/hasinhayder/google-fonts/categories/display/latin/fonts.json
+```
+
+### Versioned URLs
+
+You can pin to a specific tag or commit for caching:
+
+```
+https://cdn.jsdelivr.net/gh/hasinhayder/google-fonts@v1.2.0/fonts.json
+```
 
 ## Notes
 

@@ -1,0 +1,24 @@
+{
+  "family": "Cause",
+  "slug": "cause",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v2",
+  "lastModified": "2026-01-20"
+}

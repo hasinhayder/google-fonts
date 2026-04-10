@@ -1,0 +1,15 @@
+{
+  "family": "Playwrite NL Guides",
+  "slug": "playwrite-nl-guides",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v1",
+  "lastModified": "2025-05-30"
+}

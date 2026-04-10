@@ -1,0 +1,16 @@
+{
+  "family": "Chela One",
+  "slug": "chela-one",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v22",
+  "lastModified": "2025-09-05"
+}

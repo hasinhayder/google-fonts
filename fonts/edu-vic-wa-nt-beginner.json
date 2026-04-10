@@ -1,0 +1,18 @@
+{
+  "family": "Edu VIC WA NT Beginner",
+  "slug": "edu-vic-wa-nt-beginner",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v6",
+  "lastModified": "2025-09-11"
+}

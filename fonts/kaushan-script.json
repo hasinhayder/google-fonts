@@ -1,0 +1,16 @@
+{
+  "family": "Kaushan Script",
+  "slug": "kaushan-script",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v19",
+  "lastModified": "2025-09-10"
+}

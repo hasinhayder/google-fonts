@@ -1,0 +1,16 @@
+{
+  "family": "Playwrite AT Guides",
+  "slug": "playwrite-at-guides",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular",
+    "italic"
+  ],
+  "version": "v1",
+  "lastModified": "2025-05-30"
+}

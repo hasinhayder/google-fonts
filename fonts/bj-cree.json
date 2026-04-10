@@ -1,0 +1,19 @@
+{
+  "family": "BJ Cree",
+  "slug": "bj-cree",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "canadian-aboriginal",
+    "latin"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v1",
+  "lastModified": "2026-04-02"
+}

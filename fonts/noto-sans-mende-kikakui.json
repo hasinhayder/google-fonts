@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Mende Kikakui",
+  "slug": "noto-sans-mende-kikakui",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "mende-kikakui"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v30",
+  "lastModified": "2026-01-20"
+}

@@ -1,0 +1,21 @@
+{
+  "family": "Balsamiq Sans",
+  "slug": "balsamiq-sans",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "italic",
+    "700",
+    "700italic"
+  ],
+  "version": "v15",
+  "lastModified": "2025-09-08"
+}

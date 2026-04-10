@@ -1,0 +1,15 @@
+{
+  "family": "Playwrite IE Guides",
+  "slug": "playwrite-ie-guides",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v1",
+  "lastModified": "2025-05-30"
+}

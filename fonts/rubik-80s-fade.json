@@ -1,0 +1,19 @@
+{
+  "family": "Rubik 80s Fade",
+  "slug": "rubik-80s-fade",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "hebrew",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v2",
+  "lastModified": "2025-05-30"
+}

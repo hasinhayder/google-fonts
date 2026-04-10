@@ -1,0 +1,21 @@
+{
+  "family": "Asta Sans",
+  "slug": "asta-sans",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "korean",
+    "latin"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800"
+  ],
+  "version": "v3",
+  "lastModified": "2025-09-08"
+}

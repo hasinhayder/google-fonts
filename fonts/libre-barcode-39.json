@@ -1,0 +1,15 @@
+{
+  "family": "Libre Barcode 39",
+  "slug": "libre-barcode-39",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v25",
+  "lastModified": "2025-09-17"
+}

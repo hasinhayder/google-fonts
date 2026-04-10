@@ -1,0 +1,15 @@
+{
+  "family": "Bonbon",
+  "slug": "bonbon",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v32",
+  "lastModified": "2025-09-11"
+}

@@ -1,0 +1,19 @@
+{
+  "family": "Press Start 2P",
+  "slug": "press-start-2p",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v16",
+  "lastModified": "2025-09-16"
+}

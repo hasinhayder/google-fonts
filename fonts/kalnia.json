@@ -1,0 +1,23 @@
+{
+  "family": "Kalnia",
+  "slug": "kalnia",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "math"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v6",
+  "lastModified": "2025-09-16"
+}

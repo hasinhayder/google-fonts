@@ -1,0 +1,15 @@
+{
+  "family": "Antic",
+  "slug": "antic",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v20",
+  "lastModified": "2025-09-05"
+}

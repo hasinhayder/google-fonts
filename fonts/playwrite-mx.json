@@ -1,0 +1,18 @@
+{
+  "family": "Playwrite MX",
+  "slug": "playwrite-mx",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular"
+  ],
+  "version": "v13",
+  "lastModified": "2025-09-10"
+}

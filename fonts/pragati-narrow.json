@@ -1,0 +1,18 @@
+{
+  "family": "Pragati Narrow",
+  "slug": "pragati-narrow",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "devanagari",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v15",
+  "lastModified": "2025-09-11"
+}

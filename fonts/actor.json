@@ -1,0 +1,15 @@
+{
+  "family": "Actor",
+  "slug": "actor",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v18",
+  "lastModified": "2025-09-10"
+}

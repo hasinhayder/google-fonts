@@ -1,0 +1,25 @@
+{
+  "family": "LXGW WenKai TC",
+  "slug": "lxgw-wenkai-tc",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "chinese-traditional",
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "greek-ext",
+    "latin",
+    "latin-ext",
+    "lisu",
+    "vietnamese"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "700"
+  ],
+  "version": "v10",
+  "lastModified": "2026-03-11"
+}

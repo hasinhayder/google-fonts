@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Vai",
+  "slug": "noto-sans-vai",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vai"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v19",
+  "lastModified": "2026-01-20"
+}

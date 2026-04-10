@@ -1,0 +1,18 @@
+{
+  "family": "Playwrite BE WAL",
+  "slug": "playwrite-be-wal",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular"
+  ],
+  "version": "v7",
+  "lastModified": "2025-09-16"
+}

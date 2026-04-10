@@ -1,0 +1,20 @@
+{
+  "family": "AR One Sans",
+  "slug": "ar-one-sans",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v6",
+  "lastModified": "2025-09-16"
+}

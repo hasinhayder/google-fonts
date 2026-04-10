@@ -1,0 +1,16 @@
+{
+  "family": "Jersey 20",
+  "slug": "jersey-20",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v4",
+  "lastModified": "2025-09-17"
+}

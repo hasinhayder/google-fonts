@@ -1,0 +1,16 @@
+{
+  "family": "Zen Tokyo Zoo",
+  "slug": "zen-tokyo-zoo",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v8",
+  "lastModified": "2025-09-10"
+}

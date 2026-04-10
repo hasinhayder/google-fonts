@@ -1,0 +1,15 @@
+{
+  "family": "Kenia",
+  "slug": "kenia",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v30",
+  "lastModified": "2025-09-11"
+}

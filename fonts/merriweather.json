@@ -1,0 +1,32 @@
+{
+  "family": "Merriweather",
+  "slug": "merriweather",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900",
+    "300italic",
+    "italic",
+    "500italic",
+    "600italic",
+    "700italic",
+    "800italic",
+    "900italic"
+  ],
+  "version": "v33",
+  "lastModified": "2025-09-02"
+}

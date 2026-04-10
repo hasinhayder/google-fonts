@@ -1,0 +1,21 @@
+{
+  "family": "Namdhinggo",
+  "slug": "namdhinggo",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "limbu"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800"
+  ],
+  "version": "v2",
+  "lastModified": "2025-05-30"
+}

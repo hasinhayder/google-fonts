@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Osmanya",
+  "slug": "noto-sans-osmanya",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "osmanya"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v20",
+  "lastModified": "2026-01-20"
+}

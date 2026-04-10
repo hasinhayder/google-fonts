@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Sunuwar",
+  "slug": "noto-sans-sunuwar",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "sunuwar"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v1",
+  "lastModified": "2025-06-26"
+}

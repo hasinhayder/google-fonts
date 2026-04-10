@@ -1,0 +1,17 @@
+{
+  "family": "Estonia",
+  "slug": "estonia",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v13",
+  "lastModified": "2025-09-11"
+}

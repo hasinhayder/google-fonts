@@ -1,0 +1,25 @@
+{
+  "family": "Noto Sans Bengali",
+  "slug": "noto-sans-bengali",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "bengali",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v33",
+  "lastModified": "2026-01-28"
+}

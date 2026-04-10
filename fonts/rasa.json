@@ -1,0 +1,27 @@
+{
+  "family": "Rasa",
+  "slug": "rasa",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "gujarati",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "300italic",
+    "italic",
+    "500italic",
+    "600italic",
+    "700italic"
+  ],
+  "version": "v27",
+  "lastModified": "2025-09-05"
+}

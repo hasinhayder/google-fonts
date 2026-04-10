@@ -1,0 +1,17 @@
+{
+  "family": "Rozha One",
+  "slug": "rozha-one",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "devanagari",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v17",
+  "lastModified": "2025-09-16"
+}

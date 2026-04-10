@@ -1,0 +1,18 @@
+{
+  "family": "Glegoo",
+  "slug": "glegoo",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "devanagari",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v17",
+  "lastModified": "2025-06-02"
+}

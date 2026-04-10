@@ -1,0 +1,21 @@
+{
+  "family": "Libertinus Serif Display",
+  "slug": "libertinus-serif-display",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "greek-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v2",
+  "lastModified": "2025-08-26"
+}

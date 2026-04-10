@@ -1,0 +1,15 @@
+{
+  "family": "Chewy",
+  "slug": "chewy",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v18",
+  "lastModified": "2025-05-30"
+}

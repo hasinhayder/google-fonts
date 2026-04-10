@@ -1,0 +1,22 @@
+{
+  "family": "Crimson Text",
+  "slug": "crimson-text",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "italic",
+    "600",
+    "600italic",
+    "700",
+    "700italic"
+  ],
+  "version": "v19",
+  "lastModified": "2025-05-30"
+}

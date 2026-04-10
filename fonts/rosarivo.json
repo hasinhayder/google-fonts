@@ -1,0 +1,17 @@
+{
+  "family": "Rosarivo",
+  "slug": "rosarivo",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "italic"
+  ],
+  "version": "v24",
+  "lastModified": "2025-09-11"
+}

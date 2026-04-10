@@ -1,0 +1,15 @@
+{
+  "family": "Single Day",
+  "slug": "single-day",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "korean"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v19",
+  "lastModified": "2025-09-08"
+}

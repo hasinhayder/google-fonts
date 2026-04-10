@@ -1,0 +1,15 @@
+{
+  "family": "League Script",
+  "slug": "league-script",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v30",
+  "lastModified": "2025-09-10"
+}

@@ -1,0 +1,15 @@
+{
+  "family": "Gochi Hand",
+  "slug": "gochi-hand",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v25",
+  "lastModified": "2025-09-10"
+}

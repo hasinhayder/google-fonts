@@ -1,0 +1,15 @@
+{
+  "family": "Khmer",
+  "slug": "khmer",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "khmer"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v38",
+  "lastModified": "2025-09-17"
+}

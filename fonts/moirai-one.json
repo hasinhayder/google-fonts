@@ -1,0 +1,17 @@
+{
+  "family": "Moirai One",
+  "slug": "moirai-one",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "korean",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v3",
+  "lastModified": "2026-03-03"
+}

@@ -1,0 +1,18 @@
+{
+  "family": "GFS Didot",
+  "slug": "gfs-didot",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "greek",
+    "greek-ext",
+    "latin",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v18",
+  "lastModified": "2025-09-10"
+}

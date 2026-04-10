@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Yi",
+  "slug": "noto-sans-yi",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "yi"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v22",
+  "lastModified": "2026-01-20"
+}

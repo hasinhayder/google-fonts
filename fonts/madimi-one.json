@@ -1,0 +1,18 @@
+{
+  "family": "Madimi One",
+  "slug": "madimi-one",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "math",
+    "symbols"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v1",
+  "lastModified": "2025-05-30"
+}

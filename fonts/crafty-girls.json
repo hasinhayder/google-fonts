@@ -1,0 +1,15 @@
+{
+  "family": "Crafty Girls",
+  "slug": "crafty-girls",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v16",
+  "lastModified": "2025-05-30"
+}

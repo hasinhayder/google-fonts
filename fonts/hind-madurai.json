@@ -1,0 +1,21 @@
+{
+  "family": "Hind Madurai",
+  "slug": "hind-madurai",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "tamil"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v13",
+  "lastModified": "2025-09-02"
+}

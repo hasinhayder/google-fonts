@@ -1,0 +1,15 @@
+{
+  "family": "Goblin One",
+  "slug": "goblin-one",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v28",
+  "lastModified": "2025-09-10"
+}

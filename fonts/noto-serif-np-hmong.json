@@ -1,0 +1,19 @@
+{
+  "family": "Noto Serif NP Hmong",
+  "slug": "noto-serif-np-hmong",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "nyiakeng-puachue-hmong"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v5",
+  "lastModified": "2025-09-08"
+}

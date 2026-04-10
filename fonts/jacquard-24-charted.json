@@ -1,0 +1,16 @@
+{
+  "family": "Jacquard 24 Charted",
+  "slug": "jacquard-24-charted",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v5",
+  "lastModified": "2025-09-17"
+}

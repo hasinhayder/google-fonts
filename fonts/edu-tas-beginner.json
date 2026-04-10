@@ -1,0 +1,18 @@
+{
+  "family": "Edu TAS Beginner",
+  "slug": "edu-tas-beginner",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v5",
+  "lastModified": "2025-09-16"
+}

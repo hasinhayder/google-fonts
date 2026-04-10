@@ -1,0 +1,16 @@
+{
+  "family": "Brawler",
+  "slug": "brawler",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v20",
+  "lastModified": "2025-09-10"
+}

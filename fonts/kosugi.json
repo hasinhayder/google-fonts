@@ -1,0 +1,18 @@
+{
+  "family": "Kosugi",
+  "slug": "kosugi",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "japanese",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v19",
+  "lastModified": "2025-09-08"
+}

@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Tai Le",
+  "slug": "noto-sans-tai-le",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "tai-le"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v19",
+  "lastModified": "2026-01-20"
+}

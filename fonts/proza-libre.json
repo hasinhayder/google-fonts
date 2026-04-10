@@ -1,0 +1,25 @@
+{
+  "family": "Proza Libre",
+  "slug": "proza-libre",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "italic",
+    "500",
+    "500italic",
+    "600",
+    "600italic",
+    "700",
+    "700italic",
+    "800",
+    "800italic"
+  ],
+  "version": "v9",
+  "lastModified": "2025-05-30"
+}

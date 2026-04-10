@@ -1,0 +1,21 @@
+{
+  "family": "Shippori Mincho",
+  "slug": "shippori-mincho",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "japanese",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800"
+  ],
+  "version": "v17",
+  "lastModified": "2025-09-05"
+}

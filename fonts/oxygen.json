@@ -1,0 +1,18 @@
+{
+  "family": "Oxygen",
+  "slug": "oxygen",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "700"
+  ],
+  "version": "v16",
+  "lastModified": "2025-09-05"
+}

@@ -1,0 +1,18 @@
+{
+  "family": "Birthstone Bounce",
+  "slug": "birthstone-bounce",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "500"
+  ],
+  "version": "v13",
+  "lastModified": "2025-09-05"
+}

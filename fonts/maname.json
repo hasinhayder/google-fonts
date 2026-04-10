@@ -1,0 +1,18 @@
+{
+  "family": "Maname",
+  "slug": "maname",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "sinhala",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v2",
+  "lastModified": "2025-05-30"
+}

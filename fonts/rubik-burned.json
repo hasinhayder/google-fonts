@@ -1,0 +1,19 @@
+{
+  "family": "Rubik Burned",
+  "slug": "rubik-burned",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "hebrew",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v1",
+  "lastModified": "2025-05-30"
+}

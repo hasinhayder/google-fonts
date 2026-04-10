@@ -1,0 +1,31 @@
+{
+  "family": "Plus Jakarta Sans",
+  "slug": "plus-jakarta-sans",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "200italic",
+    "300italic",
+    "italic",
+    "500italic",
+    "600italic",
+    "700italic",
+    "800italic"
+  ],
+  "version": "v12",
+  "lastModified": "2025-09-10"
+}

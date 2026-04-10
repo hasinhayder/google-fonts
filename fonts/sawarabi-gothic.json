@@ -1,0 +1,19 @@
+{
+  "family": "Sawarabi Gothic",
+  "slug": "sawarabi-gothic",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "japanese",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v16",
+  "lastModified": "2025-06-25"
+}

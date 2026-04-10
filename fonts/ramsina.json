@@ -1,0 +1,16 @@
+{
+  "family": "Ramsina",
+  "slug": "ramsina",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "syriac"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v2",
+  "lastModified": "2026-02-17"
+}

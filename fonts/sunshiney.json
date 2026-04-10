@@ -1,0 +1,15 @@
+{
+  "family": "Sunshiney",
+  "slug": "sunshiney",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v24",
+  "lastModified": "2025-05-30"
+}

@@ -1,0 +1,16 @@
+{
+  "family": "Scope One",
+  "slug": "scope-one",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v15",
+  "lastModified": "2025-09-10"
+}

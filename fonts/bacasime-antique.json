@@ -1,0 +1,16 @@
+{
+  "family": "Bacasime Antique",
+  "slug": "bacasime-antique",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v1",
+  "lastModified": "2025-05-30"
+}

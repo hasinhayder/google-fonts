@@ -1,0 +1,21 @@
+{
+  "family": "Thasadith",
+  "slug": "thasadith",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "thai",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "italic",
+    "700",
+    "700italic"
+  ],
+  "version": "v13",
+  "lastModified": "2025-09-10"
+}

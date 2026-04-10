@@ -1,0 +1,18 @@
+{
+  "family": "Iansui",
+  "slug": "iansui",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "chinese-traditional",
+    "latin",
+    "latin-ext",
+    "symbols2"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v13",
+  "lastModified": "2026-03-11"
+}

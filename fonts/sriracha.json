@@ -1,0 +1,18 @@
+{
+  "family": "Sriracha",
+  "slug": "sriracha",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "thai",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v16",
+  "lastModified": "2025-09-11"
+}

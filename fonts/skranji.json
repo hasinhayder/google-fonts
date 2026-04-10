@@ -1,0 +1,17 @@
+{
+  "family": "Skranji",
+  "slug": "skranji",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v14",
+  "lastModified": "2025-09-16"
+}

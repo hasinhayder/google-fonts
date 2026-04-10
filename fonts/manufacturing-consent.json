@@ -1,0 +1,16 @@
+{
+  "family": "Manufacturing Consent",
+  "slug": "manufacturing-consent",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v1",
+  "lastModified": "2025-06-25"
+}

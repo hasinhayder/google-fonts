@@ -1,0 +1,18 @@
+{
+  "family": "Amita",
+  "slug": "amita",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "devanagari",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v20",
+  "lastModified": "2025-09-11"
+}

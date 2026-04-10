@@ -1,0 +1,20 @@
+{
+  "family": "Dancing Script",
+  "slug": "dancing-script",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v29",
+  "lastModified": "2025-09-08"
+}

@@ -1,0 +1,15 @@
+{
+  "family": "Germania One",
+  "slug": "germania-one",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v21",
+  "lastModified": "2025-09-05"
+}

@@ -1,0 +1,16 @@
+{
+  "family": "Gamja Flower",
+  "slug": "gamja-flower",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "korean",
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v26",
+  "lastModified": "2025-09-08"
+}

@@ -1,0 +1,19 @@
+{
+  "family": "WDXL Lubrifont TC",
+  "slug": "wdxl-lubrifont-tc",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "chinese-traditional",
+    "cyrillic",
+    "latin",
+    "latin-ext",
+    "symbols2"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v6",
+  "lastModified": "2026-03-11"
+}

@@ -1,0 +1,17 @@
+{
+  "family": "Chilanka",
+  "slug": "chilanka",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "malayalam"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v23",
+  "lastModified": "2025-09-16"
+}

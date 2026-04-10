@@ -1,0 +1,21 @@
+{
+  "family": "Reem Kufi Fun",
+  "slug": "reem-kufi-fun",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "arabic",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v13",
+  "lastModified": "2025-09-02"
+}

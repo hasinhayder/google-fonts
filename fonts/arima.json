@@ -1,0 +1,27 @@
+{
+  "family": "Arima",
+  "slug": "arima",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "greek",
+    "greek-ext",
+    "latin",
+    "latin-ext",
+    "malayalam",
+    "tamil",
+    "vietnamese"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v7",
+  "lastModified": "2025-09-10"
+}

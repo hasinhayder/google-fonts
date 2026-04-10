@@ -1,0 +1,15 @@
+{
+  "family": "Schoolbell",
+  "slug": "schoolbell",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v18",
+  "lastModified": "2025-05-30"
+}

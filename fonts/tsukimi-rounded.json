@@ -1,0 +1,21 @@
+{
+  "family": "Tsukimi Rounded",
+  "slug": "tsukimi-rounded",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "japanese",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v14",
+  "lastModified": "2025-09-10"
+}

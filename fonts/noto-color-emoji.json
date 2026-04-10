@@ -1,0 +1,15 @@
+{
+  "family": "Noto Color Emoji",
+  "slug": "noto-color-emoji",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "emoji"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v39",
+  "lastModified": "2026-02-17"
+}

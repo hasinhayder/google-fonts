@@ -1,0 +1,19 @@
+{
+  "family": "Hina Mincho",
+  "slug": "hina-mincho",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "japanese",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v16",
+  "lastModified": "2025-09-11"
+}

@@ -1,0 +1,16 @@
+{
+  "family": "Aclonica",
+  "slug": "aclonica",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v25",
+  "lastModified": "2025-09-08"
+}

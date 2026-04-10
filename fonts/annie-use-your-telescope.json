@@ -1,0 +1,16 @@
+{
+  "family": "Annie Use Your Telescope",
+  "slug": "annie-use-your-telescope",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v20",
+  "lastModified": "2025-09-10"
+}

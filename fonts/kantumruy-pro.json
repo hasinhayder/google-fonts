@@ -1,0 +1,30 @@
+{
+  "family": "Kantumruy Pro",
+  "slug": "kantumruy-pro",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "khmer",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "100italic",
+    "200italic",
+    "300italic",
+    "italic",
+    "500italic",
+    "600italic",
+    "700italic"
+  ],
+  "version": "v12",
+  "lastModified": "2025-09-05"
+}

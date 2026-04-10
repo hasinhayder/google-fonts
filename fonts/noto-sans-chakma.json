@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Chakma",
+  "slug": "noto-sans-chakma",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "chakma",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v19",
+  "lastModified": "2026-01-20"
+}

@@ -1,0 +1,21 @@
+{
+  "family": "Stack Sans Notch",
+  "slug": "stack-sans-notch",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v5",
+  "lastModified": "2025-11-04"
+}

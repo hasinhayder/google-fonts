@@ -1,0 +1,30 @@
+{
+  "family": "Alegreya SC",
+  "slug": "alegreya-sc",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "greek-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "italic",
+    "500",
+    "500italic",
+    "700",
+    "700italic",
+    "800",
+    "800italic",
+    "900",
+    "900italic"
+  ],
+  "version": "v26",
+  "lastModified": "2025-09-05"
+}

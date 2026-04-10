@@ -1,0 +1,16 @@
+{
+  "family": "Emilys Candy",
+  "slug": "emilys-candy",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v21",
+  "lastModified": "2025-09-10"
+}

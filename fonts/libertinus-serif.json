@@ -1,0 +1,27 @@
+{
+  "family": "Libertinus Serif",
+  "slug": "libertinus-serif",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "greek-ext",
+    "hebrew",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "italic",
+    "600",
+    "600italic",
+    "700",
+    "700italic"
+  ],
+  "version": "v1",
+  "lastModified": "2025-07-30"
+}

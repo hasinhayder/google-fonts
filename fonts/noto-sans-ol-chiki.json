@@ -1,0 +1,20 @@
+{
+  "family": "Noto Sans Ol Chiki",
+  "slug": "noto-sans-ol-chiki",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "ol-chiki"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v31",
+  "lastModified": "2025-09-10"
+}

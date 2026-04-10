@@ -1,0 +1,17 @@
+{
+  "family": "Kelly Slab",
+  "slug": "kelly-slab",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "cyrillic",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v18",
+  "lastModified": "2025-06-02"
+}

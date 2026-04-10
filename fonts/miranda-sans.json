@@ -1,0 +1,23 @@
+{
+  "family": "Miranda Sans",
+  "slug": "miranda-sans",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700",
+    "italic",
+    "500italic",
+    "600italic",
+    "700italic"
+  ],
+  "version": "v3",
+  "lastModified": "2026-04-02"
+}

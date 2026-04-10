@@ -1,0 +1,15 @@
+{
+  "family": "Libre Barcode EAN13 Text",
+  "slug": "libre-barcode-ean13-text",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v25",
+  "lastModified": "2025-09-17"
+}

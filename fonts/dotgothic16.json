@@ -1,0 +1,18 @@
+{
+  "family": "DotGothic16",
+  "slug": "dotgothic16",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "japanese",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v21",
+  "lastModified": "2025-09-11"
+}

@@ -1,0 +1,17 @@
+{
+  "family": "Codystar",
+  "slug": "codystar",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "300",
+    "regular"
+  ],
+  "version": "v19",
+  "lastModified": "2025-09-11"
+}

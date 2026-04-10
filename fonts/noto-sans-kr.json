@@ -1,0 +1,27 @@
+{
+  "family": "Noto Sans KR",
+  "slug": "noto-sans-kr",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "korean",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v39",
+  "lastModified": "2026-01-07"
+}

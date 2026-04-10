@@ -1,0 +1,19 @@
+{
+  "family": "Courier Prime",
+  "slug": "courier-prime",
+  "categories": [
+    "monospace"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "italic",
+    "700",
+    "700italic"
+  ],
+  "version": "v11",
+  "lastModified": "2025-09-11"
+}

@@ -1,0 +1,15 @@
+{
+  "family": "Rancho",
+  "slug": "rancho",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v22",
+  "lastModified": "2025-06-02"
+}

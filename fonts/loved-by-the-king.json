@@ -1,0 +1,16 @@
+{
+  "family": "Loved by the King",
+  "slug": "loved-by-the-king",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v24",
+  "lastModified": "2025-09-05"
+}

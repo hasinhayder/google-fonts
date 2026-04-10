@@ -1,0 +1,20 @@
+{
+  "family": "Averia Sans Libre",
+  "slug": "averia-sans-libre",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "300",
+    "300italic",
+    "regular",
+    "italic",
+    "700",
+    "700italic"
+  ],
+  "version": "v20",
+  "lastModified": "2025-06-02"
+}

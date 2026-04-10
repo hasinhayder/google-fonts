@@ -1,0 +1,20 @@
+{
+  "family": "Noto Sans Bassa Vah",
+  "slug": "noto-sans-bassa-vah",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "bassa-vah",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v21",
+  "lastModified": "2025-09-16"
+}

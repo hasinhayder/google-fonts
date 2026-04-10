@@ -1,0 +1,16 @@
+{
+  "family": "Poetsen One",
+  "slug": "poetsen-one",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v3",
+  "lastModified": "2025-05-30"
+}

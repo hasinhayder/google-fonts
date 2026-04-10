@@ -1,0 +1,19 @@
+{
+  "family": "Srisakdi",
+  "slug": "srisakdi",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "thai",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v18",
+  "lastModified": "2025-09-08"
+}

@@ -1,0 +1,16 @@
+{
+  "family": "Diplomata",
+  "slug": "diplomata",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v33",
+  "lastModified": "2025-09-02"
+}

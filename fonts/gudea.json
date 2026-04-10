@@ -1,0 +1,18 @@
+{
+  "family": "Gudea",
+  "slug": "gudea",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "italic",
+    "700"
+  ],
+  "version": "v16",
+  "lastModified": "2025-09-10"
+}

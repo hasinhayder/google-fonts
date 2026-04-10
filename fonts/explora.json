@@ -1,0 +1,18 @@
+{
+  "family": "Explora",
+  "slug": "explora",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "cherokee",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v11",
+  "lastModified": "2025-09-05"
+}

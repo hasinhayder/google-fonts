@@ -1,0 +1,16 @@
+{
+  "family": "Nova Round",
+  "slug": "nova-round",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v23",
+  "lastModified": "2025-09-16"
+}

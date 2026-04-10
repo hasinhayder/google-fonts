@@ -1,0 +1,15 @@
+{
+  "family": "Creepster",
+  "slug": "creepster",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v13",
+  "lastModified": "2025-05-30"
+}

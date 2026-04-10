@@ -1,0 +1,16 @@
+{
+  "family": "Averia Gruesa Libre",
+  "slug": "averia-gruesa-libre",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v22",
+  "lastModified": "2025-05-30"
+}

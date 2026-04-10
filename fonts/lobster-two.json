@@ -1,0 +1,18 @@
+{
+  "family": "Lobster Two",
+  "slug": "lobster-two",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular",
+    "italic",
+    "700",
+    "700italic"
+  ],
+  "version": "v22",
+  "lastModified": "2025-09-11"
+}

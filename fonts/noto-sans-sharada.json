@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Sharada",
+  "slug": "noto-sans-sharada",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "sharada"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v18",
+  "lastModified": "2026-01-20"
+}

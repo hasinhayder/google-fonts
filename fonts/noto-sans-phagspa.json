@@ -1,0 +1,19 @@
+{
+  "family": "Noto Sans PhagsPa",
+  "slug": "noto-sans-phagspa",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "math",
+    "phags-pa",
+    "symbols"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v24",
+  "lastModified": "2025-09-10"
+}

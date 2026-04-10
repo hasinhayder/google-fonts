@@ -1,0 +1,17 @@
+{
+  "family": "Luxurious Script",
+  "slug": "luxurious-script",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v9",
+  "lastModified": "2025-09-08"
+}

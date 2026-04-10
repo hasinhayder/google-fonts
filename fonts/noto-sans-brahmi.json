@@ -1,0 +1,19 @@
+{
+  "family": "Noto Sans Brahmi",
+  "slug": "noto-sans-brahmi",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "brahmi",
+    "latin",
+    "latin-ext",
+    "math",
+    "symbols"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v20",
+  "lastModified": "2025-09-10"
+}

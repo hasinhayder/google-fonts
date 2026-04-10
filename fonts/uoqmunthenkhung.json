@@ -1,0 +1,18 @@
+{
+  "family": "UoqMunThenKhung",
+  "slug": "uoqmunthenkhung",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "chinese-traditional",
+    "cyrillic",
+    "latin",
+    "symbols2"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v3",
+  "lastModified": "2026-03-11"
+}

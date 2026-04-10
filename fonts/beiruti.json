@@ -1,0 +1,25 @@
+{
+  "family": "Beiruti",
+  "slug": "beiruti",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "arabic",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v5",
+  "lastModified": "2025-09-10"
+}

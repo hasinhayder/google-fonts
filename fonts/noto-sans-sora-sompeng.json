@@ -1,0 +1,20 @@
+{
+  "family": "Noto Sans Sora Sompeng",
+  "slug": "noto-sans-sora-sompeng",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "sora-sompeng"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v26",
+  "lastModified": "2025-09-10"
+}

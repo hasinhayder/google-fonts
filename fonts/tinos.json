@@ -1,0 +1,25 @@
+{
+  "family": "Tinos",
+  "slug": "tinos",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "greek-ext",
+    "hebrew",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "italic",
+    "700",
+    "700italic"
+  ],
+  "version": "v25",
+  "lastModified": "2025-09-08"
+}

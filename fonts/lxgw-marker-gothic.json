@@ -1,0 +1,22 @@
+{
+  "family": "LXGW Marker Gothic",
+  "slug": "lxgw-marker-gothic",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "chinese-traditional",
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "latin",
+    "latin-ext",
+    "symbols2",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v3",
+  "lastModified": "2026-03-11"
+}

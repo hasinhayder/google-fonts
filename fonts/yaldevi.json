@@ -1,0 +1,22 @@
+{
+  "family": "Yaldevi",
+  "slug": "yaldevi",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "sinhala"
+  ],
+  "variants": [
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v17",
+  "lastModified": "2025-09-10"
+}

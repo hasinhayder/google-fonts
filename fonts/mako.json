@@ -1,0 +1,16 @@
+{
+  "family": "Mako",
+  "slug": "mako",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v19",
+  "lastModified": "2025-05-30"
+}

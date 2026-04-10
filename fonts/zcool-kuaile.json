@@ -1,0 +1,16 @@
+{
+  "family": "ZCOOL KuaiLe",
+  "slug": "zcool-kuaile",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "chinese-simplified",
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v22",
+  "lastModified": "2026-02-17"
+}

@@ -1,0 +1,15 @@
+{
+  "family": "Playwrite DE LA Guides",
+  "slug": "playwrite-de-la-guides",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v2",
+  "lastModified": "2025-05-30"
+}

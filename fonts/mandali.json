@@ -1,0 +1,16 @@
+{
+  "family": "Mandali",
+  "slug": "mandali",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "telugu"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v16",
+  "lastModified": "2025-09-10"
+}

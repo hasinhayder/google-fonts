@@ -1,0 +1,16 @@
+{
+  "family": "Bree Serif",
+  "slug": "bree-serif",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v18",
+  "lastModified": "2025-09-05"
+}

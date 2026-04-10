@@ -1,0 +1,21 @@
+{
+  "family": "Inria Serif",
+  "slug": "inria-serif",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "300",
+    "300italic",
+    "regular",
+    "italic",
+    "700",
+    "700italic"
+  ],
+  "version": "v18",
+  "lastModified": "2025-09-11"
+}

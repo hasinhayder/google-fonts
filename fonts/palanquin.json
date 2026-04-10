@@ -1,0 +1,23 @@
+{
+  "family": "Palanquin",
+  "slug": "palanquin",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "devanagari",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v17",
+  "lastModified": "2025-09-11"
+}

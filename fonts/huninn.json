@@ -1,0 +1,19 @@
+{
+  "family": "Huninn",
+  "slug": "huninn",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "chinese-traditional",
+    "cyrillic",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v8",
+  "lastModified": "2026-03-11"
+}

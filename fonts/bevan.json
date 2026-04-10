@@ -1,0 +1,18 @@
+{
+  "family": "Bevan",
+  "slug": "bevan",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "italic"
+  ],
+  "version": "v26",
+  "lastModified": "2025-09-16"
+}

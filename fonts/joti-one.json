@@ -1,0 +1,16 @@
+{
+  "family": "Joti One",
+  "slug": "joti-one",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v28",
+  "lastModified": "2025-09-16"
+}

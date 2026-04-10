@@ -1,0 +1,16 @@
+{
+  "family": "Lusitana",
+  "slug": "lusitana",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v14",
+  "lastModified": "2025-09-08"
+}

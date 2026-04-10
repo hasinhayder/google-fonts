@@ -1,0 +1,18 @@
+{
+  "family": "Gowun Dodum",
+  "slug": "gowun-dodum",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "korean",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v12",
+  "lastModified": "2025-09-11"
+}

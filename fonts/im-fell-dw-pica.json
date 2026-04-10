@@ -1,0 +1,16 @@
+{
+  "family": "IM Fell DW Pica",
+  "slug": "im-fell-dw-pica",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular",
+    "italic"
+  ],
+  "version": "v16",
+  "lastModified": "2025-05-30"
+}

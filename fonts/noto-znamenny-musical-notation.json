@@ -1,0 +1,19 @@
+{
+  "family": "Noto Znamenny Musical Notation",
+  "slug": "noto-znamenny-musical-notation",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "math",
+    "symbols",
+    "znamenny"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v7",
+  "lastModified": "2025-06-09"
+}

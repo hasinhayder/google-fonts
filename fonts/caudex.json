@@ -1,0 +1,23 @@
+{
+  "family": "Caudex",
+  "slug": "caudex",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "greek",
+    "greek-ext",
+    "latin",
+    "latin-ext",
+    "runic",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "italic",
+    "700",
+    "700italic"
+  ],
+  "version": "v19",
+  "lastModified": "2025-09-05"
+}

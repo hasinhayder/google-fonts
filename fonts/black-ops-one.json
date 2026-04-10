@@ -1,0 +1,18 @@
+{
+  "family": "Black Ops One",
+  "slug": "black-ops-one",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "cyrillic-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v21",
+  "lastModified": "2025-09-10"
+}

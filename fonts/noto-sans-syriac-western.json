@@ -1,0 +1,25 @@
+{
+  "family": "Noto Sans Syriac Western",
+  "slug": "noto-sans-syriac-western",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "syriac"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v2",
+  "lastModified": "2025-10-29"
+}

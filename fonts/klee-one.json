@@ -1,0 +1,20 @@
+{
+  "family": "Klee One",
+  "slug": "klee-one",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "cyrillic",
+    "greek-ext",
+    "japanese",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "600"
+  ],
+  "version": "v13",
+  "lastModified": "2025-09-08"
+}

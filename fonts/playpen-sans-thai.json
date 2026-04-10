@@ -1,0 +1,26 @@
+{
+  "family": "Playpen Sans Thai",
+  "slug": "playpen-sans-thai",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "emoji",
+    "latin",
+    "latin-ext",
+    "math",
+    "thai"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800"
+  ],
+  "version": "v8",
+  "lastModified": "2025-09-10"
+}

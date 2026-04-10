@@ -1,0 +1,25 @@
+{
+  "family": "Noto Serif Devanagari",
+  "slug": "noto-serif-devanagari",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "devanagari",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v34",
+  "lastModified": "2025-09-11"
+}

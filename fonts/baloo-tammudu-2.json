@@ -1,0 +1,22 @@
+{
+  "family": "Baloo Tammudu 2",
+  "slug": "baloo-tammudu-2",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "telugu",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800"
+  ],
+  "version": "v27",
+  "lastModified": "2025-09-11"
+}

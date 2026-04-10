@@ -1,0 +1,20 @@
+{
+  "family": "Roboto Flex",
+  "slug": "roboto-flex",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v30",
+  "lastModified": "2025-09-05"
+}

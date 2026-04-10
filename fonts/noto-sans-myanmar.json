@@ -1,0 +1,25 @@
+{
+  "family": "Noto Sans Myanmar",
+  "slug": "noto-sans-myanmar",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "myanmar"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v27",
+  "lastModified": "2026-01-20"
+}

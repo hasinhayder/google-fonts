@@ -1,0 +1,16 @@
+{
+  "family": "NTR",
+  "slug": "ntr",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "telugu"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v19",
+  "lastModified": "2025-09-11"
+}

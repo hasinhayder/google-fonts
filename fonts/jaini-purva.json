@@ -1,0 +1,17 @@
+{
+  "family": "Jaini Purva",
+  "slug": "jaini-purva",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "devanagari",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v1",
+  "lastModified": "2025-05-30"
+}

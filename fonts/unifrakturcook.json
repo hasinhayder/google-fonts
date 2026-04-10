@@ -1,0 +1,15 @@
+{
+  "family": "UnifrakturCook",
+  "slug": "unifrakturcook",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "700"
+  ],
+  "version": "v25",
+  "lastModified": "2025-09-05"
+}

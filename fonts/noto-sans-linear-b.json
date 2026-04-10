@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Linear B",
+  "slug": "noto-sans-linear-b",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "linear-b"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v18",
+  "lastModified": "2025-09-11"
+}

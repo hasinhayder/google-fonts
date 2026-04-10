@@ -1,0 +1,18 @@
+{
+  "family": "Corinthia",
+  "slug": "corinthia",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v13",
+  "lastModified": "2025-09-05"
+}

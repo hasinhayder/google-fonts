@@ -1,0 +1,23 @@
+{
+  "family": "Mitr",
+  "slug": "mitr",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "thai",
+    "vietnamese"
+  ],
+  "variants": [
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v13",
+  "lastModified": "2025-09-10"
+}

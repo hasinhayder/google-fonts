@@ -1,0 +1,16 @@
+{
+  "family": "Exile",
+  "slug": "exile",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v1",
+  "lastModified": "2025-05-13"
+}

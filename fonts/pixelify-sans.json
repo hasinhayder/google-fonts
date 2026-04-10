@@ -1,0 +1,20 @@
+{
+  "family": "Pixelify Sans",
+  "slug": "pixelify-sans",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "cyrillic",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v3",
+  "lastModified": "2025-09-16"
+}

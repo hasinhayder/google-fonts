@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Miao",
+  "slug": "noto-sans-miao",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "miao"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v19",
+  "lastModified": "2026-01-20"
+}

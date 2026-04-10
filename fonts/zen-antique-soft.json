@@ -1,0 +1,19 @@
+{
+  "family": "Zen Antique Soft",
+  "slug": "zen-antique-soft",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "greek",
+    "japanese",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v14",
+  "lastModified": "2025-09-10"
+}

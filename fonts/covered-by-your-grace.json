@@ -1,0 +1,16 @@
+{
+  "family": "Covered By Your Grace",
+  "slug": "covered-by-your-grace",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v17",
+  "lastModified": "2025-09-10"
+}

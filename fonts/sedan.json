@@ -1,0 +1,17 @@
+{
+  "family": "Sedan",
+  "slug": "sedan",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "italic"
+  ],
+  "version": "v1",
+  "lastModified": "2025-05-30"
+}

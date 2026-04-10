@@ -1,0 +1,15 @@
+{
+  "family": "Playwrite IT Trad Guides",
+  "slug": "playwrite-it-trad-guides",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v2",
+  "lastModified": "2025-05-30"
+}

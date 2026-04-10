@@ -1,0 +1,16 @@
+{
+  "family": "Gveret Levin",
+  "slug": "gveret-levin",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "hebrew",
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v4",
+  "lastModified": "2026-02-17"
+}

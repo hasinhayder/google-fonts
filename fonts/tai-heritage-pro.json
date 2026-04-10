@@ -1,0 +1,19 @@
+{
+  "family": "Tai Heritage Pro",
+  "slug": "tai-heritage-pro",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "tai-viet",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v9",
+  "lastModified": "2025-09-08"
+}

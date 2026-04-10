@@ -1,0 +1,17 @@
+{
+  "family": "Castoro",
+  "slug": "castoro",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "italic"
+  ],
+  "version": "v20",
+  "lastModified": "2025-09-16"
+}

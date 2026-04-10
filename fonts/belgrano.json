@@ -1,0 +1,15 @@
+{
+  "family": "Belgrano",
+  "slug": "belgrano",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v19",
+  "lastModified": "2025-09-05"
+}

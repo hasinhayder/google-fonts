@@ -1,0 +1,23 @@
+{
+  "family": "Mukta Mahee",
+  "slug": "mukta-mahee",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "gurmukhi",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800"
+  ],
+  "version": "v19",
+  "lastModified": "2025-09-05"
+}

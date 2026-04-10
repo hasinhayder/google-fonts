@@ -1,0 +1,20 @@
+{
+  "family": "Kay Pho Du",
+  "slug": "kay-pho-du",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "kayah-li",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v2",
+  "lastModified": "2025-05-30"
+}

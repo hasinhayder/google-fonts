@@ -1,0 +1,20 @@
+{
+  "family": "Noto Sans Symbols 2",
+  "slug": "noto-sans-symbols-2",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "braille",
+    "latin",
+    "latin-ext",
+    "math",
+    "mayan-numerals",
+    "symbols"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v25",
+  "lastModified": "2025-09-05"
+}

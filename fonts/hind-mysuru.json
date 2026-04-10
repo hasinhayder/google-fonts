@@ -1,0 +1,21 @@
+{
+  "family": "Hind Mysuru",
+  "slug": "hind-mysuru",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "kannada",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v1",
+  "lastModified": "2025-05-30"
+}

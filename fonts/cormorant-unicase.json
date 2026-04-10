@@ -1,0 +1,23 @@
+{
+  "family": "Cormorant Unicase",
+  "slug": "cormorant-unicase",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v25",
+  "lastModified": "2025-09-10"
+}

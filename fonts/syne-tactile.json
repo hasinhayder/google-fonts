@@ -1,0 +1,16 @@
+{
+  "family": "Syne Tactile",
+  "slug": "syne-tactile",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v16",
+  "lastModified": "2025-09-08"
+}

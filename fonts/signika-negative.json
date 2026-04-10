@@ -1,0 +1,21 @@
+{
+  "family": "Signika Negative",
+  "slug": "signika-negative",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v26",
+  "lastModified": "2025-09-02"
+}

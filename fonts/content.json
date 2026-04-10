@@ -1,0 +1,16 @@
+{
+  "family": "Content",
+  "slug": "content",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "khmer"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v27",
+  "lastModified": "2024-12-04"
+}

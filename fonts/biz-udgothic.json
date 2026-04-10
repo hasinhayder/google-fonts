@@ -1,0 +1,20 @@
+{
+  "family": "BIZ UDGothic",
+  "slug": "biz-udgothic",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "greek-ext",
+    "japanese",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v12",
+  "lastModified": "2025-05-30"
+}

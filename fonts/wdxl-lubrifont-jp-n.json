@@ -1,0 +1,19 @@
+{
+  "family": "WDXL Lubrifont JP N",
+  "slug": "wdxl-lubrifont-jp-n",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "japanese",
+    "latin",
+    "latin-ext",
+    "symbols2"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v2",
+  "lastModified": "2026-01-07"
+}

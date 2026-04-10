@@ -1,0 +1,25 @@
+{
+  "family": "Lexend Deca",
+  "slug": "lexend-deca",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v25",
+  "lastModified": "2025-09-16"
+}

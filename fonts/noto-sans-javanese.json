@@ -1,0 +1,20 @@
+{
+  "family": "Noto Sans Javanese",
+  "slug": "noto-sans-javanese",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "javanese",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v25",
+  "lastModified": "2025-09-11"
+}

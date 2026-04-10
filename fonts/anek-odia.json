@@ -1,0 +1,24 @@
+{
+  "family": "Anek Odia",
+  "slug": "anek-odia",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "oriya"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800"
+  ],
+  "version": "v17",
+  "lastModified": "2025-09-11"
+}

@@ -1,0 +1,27 @@
+{
+  "family": "Ubuntu Sans Mono",
+  "slug": "ubuntu-sans-mono",
+  "categories": [
+    "monospace"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "greek-ext",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700",
+    "italic",
+    "500italic",
+    "600italic",
+    "700italic"
+  ],
+  "version": "v3",
+  "lastModified": "2025-09-02"
+}

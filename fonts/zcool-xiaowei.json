@@ -1,0 +1,16 @@
+{
+  "family": "ZCOOL XiaoWei",
+  "slug": "zcool-xiaowei",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "chinese-simplified",
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v15",
+  "lastModified": "2025-09-05"
+}

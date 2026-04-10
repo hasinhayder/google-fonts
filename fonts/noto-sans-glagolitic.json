@@ -1,0 +1,20 @@
+{
+  "family": "Noto Sans Glagolitic",
+  "slug": "noto-sans-glagolitic",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic-ext",
+    "glagolitic",
+    "latin",
+    "latin-ext",
+    "math",
+    "symbols"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v19",
+  "lastModified": "2025-09-05"
+}

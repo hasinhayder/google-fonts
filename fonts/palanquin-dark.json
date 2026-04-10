@@ -1,0 +1,20 @@
+{
+  "family": "Palanquin Dark",
+  "slug": "palanquin-dark",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "devanagari",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v17",
+  "lastModified": "2025-09-10"
+}

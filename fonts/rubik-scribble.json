@@ -1,0 +1,21 @@
+{
+  "family": "Rubik Scribble",
+  "slug": "rubik-scribble",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "hebrew",
+    "latin",
+    "latin-ext",
+    "math",
+    "symbols"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v1",
+  "lastModified": "2025-05-30"
+}

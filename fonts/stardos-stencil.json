@@ -1,0 +1,16 @@
+{
+  "family": "Stardos Stencil",
+  "slug": "stardos-stencil",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v15",
+  "lastModified": "2025-05-30"
+}

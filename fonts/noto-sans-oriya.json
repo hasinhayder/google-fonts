@@ -1,0 +1,25 @@
+{
+  "family": "Noto Sans Oriya",
+  "slug": "noto-sans-oriya",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "oriya"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v35",
+  "lastModified": "2026-02-19"
+}

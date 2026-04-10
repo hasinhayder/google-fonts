@@ -1,0 +1,15 @@
+{
+  "family": "Material Icons",
+  "slug": "material-icons",
+  "categories": [
+    "monospace"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v145",
+  "lastModified": "2025-09-17"
+}

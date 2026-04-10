@@ -1,0 +1,16 @@
+{
+  "family": "Kotta One",
+  "slug": "kotta-one",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v21",
+  "lastModified": "2025-09-05"
+}

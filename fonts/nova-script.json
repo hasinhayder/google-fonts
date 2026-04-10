@@ -1,0 +1,16 @@
+{
+  "family": "Nova Script",
+  "slug": "nova-script",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v27",
+  "lastModified": "2025-09-02"
+}

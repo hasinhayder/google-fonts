@@ -1,0 +1,15 @@
+{
+  "family": "Reenie Beanie",
+  "slug": "reenie-beanie",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v22",
+  "lastModified": "2025-09-08"
+}

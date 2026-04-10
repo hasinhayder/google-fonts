@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Old Italic",
+  "slug": "noto-sans-old-italic",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "old-italic"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v18",
+  "lastModified": "2025-09-08"
+}

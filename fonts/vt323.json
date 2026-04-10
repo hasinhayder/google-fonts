@@ -1,0 +1,17 @@
+{
+  "family": "VT323",
+  "slug": "vt323",
+  "categories": [
+    "monospace"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v18",
+  "lastModified": "2025-09-16"
+}

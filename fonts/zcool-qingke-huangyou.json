@@ -1,0 +1,16 @@
+{
+  "family": "ZCOOL QingKe HuangYou",
+  "slug": "zcool-qingke-huangyou",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "chinese-simplified",
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v16",
+  "lastModified": "2025-09-10"
+}

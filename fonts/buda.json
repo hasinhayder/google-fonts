@@ -1,0 +1,15 @@
+{
+  "family": "Buda",
+  "slug": "buda",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "300"
+  ],
+  "version": "v31",
+  "lastModified": "2025-09-08"
+}

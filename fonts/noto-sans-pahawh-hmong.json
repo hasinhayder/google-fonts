@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Pahawh Hmong",
+  "slug": "noto-sans-pahawh-hmong",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "pahawh-hmong"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v21",
+  "lastModified": "2026-01-20"
+}

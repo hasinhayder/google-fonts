@@ -1,0 +1,15 @@
+{
+  "family": "Chenla",
+  "slug": "chenla",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "khmer"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v25",
+  "lastModified": "2022-09-22"
+}

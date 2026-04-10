@@ -1,0 +1,16 @@
+{
+  "family": "Jua",
+  "slug": "jua",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "korean",
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v18",
+  "lastModified": "2025-09-05"
+}

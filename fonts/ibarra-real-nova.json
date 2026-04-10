@@ -1,0 +1,23 @@
+{
+  "family": "Ibarra Real Nova",
+  "slug": "ibarra-real-nova",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700",
+    "italic",
+    "500italic",
+    "600italic",
+    "700italic"
+  ],
+  "version": "v30",
+  "lastModified": "2025-09-05"
+}

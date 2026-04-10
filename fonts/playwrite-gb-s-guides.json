@@ -1,0 +1,16 @@
+{
+  "family": "Playwrite GB S Guides",
+  "slug": "playwrite-gb-s-guides",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular",
+    "italic"
+  ],
+  "version": "v1",
+  "lastModified": "2025-05-30"
+}

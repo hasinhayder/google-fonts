@@ -1,0 +1,23 @@
+{
+  "family": "National Park",
+  "slug": "national-park",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800"
+  ],
+  "version": "v4",
+  "lastModified": "2025-09-11"
+}

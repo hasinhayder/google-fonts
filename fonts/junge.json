@@ -1,0 +1,15 @@
+{
+  "family": "Junge",
+  "slug": "junge",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v26",
+  "lastModified": "2025-09-11"
+}

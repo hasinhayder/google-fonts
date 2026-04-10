@@ -1,0 +1,24 @@
+{
+  "family": "Mada",
+  "slug": "mada",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "arabic",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v21",
+  "lastModified": "2025-09-05"
+}

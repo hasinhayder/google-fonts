@@ -1,0 +1,18 @@
+{
+  "family": "Edu NSW ACT Foundation",
+  "slug": "edu-nsw-act-foundation",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v5",
+  "lastModified": "2025-09-11"
+}

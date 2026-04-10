@@ -1,0 +1,21 @@
+{
+  "family": "Cinzel",
+  "slug": "cinzel",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v26",
+  "lastModified": "2025-09-10"
+}

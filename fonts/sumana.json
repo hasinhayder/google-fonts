@@ -1,0 +1,18 @@
+{
+  "family": "Sumana",
+  "slug": "sumana",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "devanagari",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v12",
+  "lastModified": "2025-09-11"
+}

@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Wancho",
+  "slug": "noto-sans-wancho",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "wancho"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v19",
+  "lastModified": "2026-01-20"
+}

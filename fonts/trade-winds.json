@@ -1,0 +1,15 @@
+{
+  "family": "Trade Winds",
+  "slug": "trade-winds",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v18",
+  "lastModified": "2025-09-11"
+}

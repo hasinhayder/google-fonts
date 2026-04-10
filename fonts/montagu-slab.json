@@ -1,0 +1,23 @@
+{
+  "family": "Montagu Slab",
+  "slug": "montagu-slab",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v17",
+  "lastModified": "2025-09-05"
+}

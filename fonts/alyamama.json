@@ -1,0 +1,24 @@
+{
+  "family": "Alyamama",
+  "slug": "alyamama",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "arabic",
+    "greek",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v2",
+  "lastModified": "2026-02-19"
+}

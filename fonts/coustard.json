@@ -1,0 +1,17 @@
+{
+  "family": "Coustard",
+  "slug": "coustard",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "900"
+  ],
+  "version": "v19",
+  "lastModified": "2026-04-02"
+}

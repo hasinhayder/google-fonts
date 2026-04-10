@@ -1,0 +1,20 @@
+{
+  "family": "Noto Sans Bamum",
+  "slug": "noto-sans-bamum",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "bamum",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v35",
+  "lastModified": "2025-09-11"
+}

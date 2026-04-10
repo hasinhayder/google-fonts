@@ -1,0 +1,17 @@
+{
+  "family": "Cossette Titre",
+  "slug": "cossette-titre",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v3",
+  "lastModified": "2025-10-29"
+}

@@ -1,0 +1,18 @@
+{
+  "family": "Xanh Mono",
+  "slug": "xanh-mono",
+  "categories": [
+    "monospace"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "italic"
+  ],
+  "version": "v19",
+  "lastModified": "2025-09-08"
+}

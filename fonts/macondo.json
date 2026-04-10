@@ -1,0 +1,15 @@
+{
+  "family": "Macondo",
+  "slug": "macondo",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v27",
+  "lastModified": "2025-09-11"
+}

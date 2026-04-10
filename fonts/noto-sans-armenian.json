@@ -1,0 +1,25 @@
+{
+  "family": "Noto Sans Armenian",
+  "slug": "noto-sans-armenian",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "armenian",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v47",
+  "lastModified": "2025-09-10"
+}

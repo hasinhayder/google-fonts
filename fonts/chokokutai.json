@@ -1,0 +1,18 @@
+{
+  "family": "Chokokutai",
+  "slug": "chokokutai",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "japanese",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v12",
+  "lastModified": "2025-09-08"
+}

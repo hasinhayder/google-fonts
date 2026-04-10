@@ -1,0 +1,16 @@
+{
+  "family": "Special Gothic Expanded One",
+  "slug": "special-gothic-expanded-one",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v2",
+  "lastModified": "2025-04-23"
+}

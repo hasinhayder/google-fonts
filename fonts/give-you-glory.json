@@ -1,0 +1,16 @@
+{
+  "family": "Give You Glory",
+  "slug": "give-you-glory",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v17",
+  "lastModified": "2025-09-05"
+}

@@ -1,0 +1,17 @@
+{
+  "family": "Nova Mono",
+  "slug": "nova-mono",
+  "categories": [
+    "monospace"
+  ],
+  "subsets": [
+    "greek",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v23",
+  "lastModified": "2025-09-10"
+}

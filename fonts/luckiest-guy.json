@@ -1,0 +1,16 @@
+{
+  "family": "Luckiest Guy",
+  "slug": "luckiest-guy",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v25",
+  "lastModified": "2025-09-08"
+}

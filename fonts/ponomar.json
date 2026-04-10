@@ -1,0 +1,17 @@
+{
+  "family": "Ponomar",
+  "slug": "ponomar",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v5",
+  "lastModified": "2025-05-30"
+}

@@ -1,0 +1,25 @@
+{
+  "family": "Finlandica",
+  "slug": "finlandica",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700",
+    "italic",
+    "500italic",
+    "600italic",
+    "700italic"
+  ],
+  "version": "v10",
+  "lastModified": "2025-09-08"
+}

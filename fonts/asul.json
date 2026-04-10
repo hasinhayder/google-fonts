@@ -1,0 +1,16 @@
+{
+  "family": "Asul",
+  "slug": "asul",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v22",
+  "lastModified": "2025-06-25"
+}

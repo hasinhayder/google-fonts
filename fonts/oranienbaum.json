@@ -1,0 +1,18 @@
+{
+  "family": "Oranienbaum",
+  "slug": "oranienbaum",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v16",
+  "lastModified": "2025-09-10"
+}

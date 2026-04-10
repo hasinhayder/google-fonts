@@ -1,0 +1,23 @@
+{
+  "family": "Readex Pro",
+  "slug": "readex-pro",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "arabic",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v27",
+  "lastModified": "2025-09-10"
+}

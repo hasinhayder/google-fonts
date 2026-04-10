@@ -1,0 +1,19 @@
+{
+  "family": "Gowun Batang",
+  "slug": "gowun-batang",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "korean",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v12",
+  "lastModified": "2025-09-10"
+}

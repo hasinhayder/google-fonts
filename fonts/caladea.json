@@ -1,0 +1,19 @@
+{
+  "family": "Caladea",
+  "slug": "caladea",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "italic",
+    "700",
+    "700italic"
+  ],
+  "version": "v8",
+  "lastModified": "2025-09-11"
+}

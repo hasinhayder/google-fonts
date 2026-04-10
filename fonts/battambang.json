@@ -1,0 +1,20 @@
+{
+  "family": "Battambang",
+  "slug": "battambang",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "khmer",
+    "latin"
+  ],
+  "variants": [
+    "100",
+    "300",
+    "regular",
+    "700",
+    "900"
+  ],
+  "version": "v26",
+  "lastModified": "2025-09-05"
+}

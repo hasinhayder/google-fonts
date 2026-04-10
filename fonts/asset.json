@@ -1,0 +1,19 @@
+{
+  "family": "Asset",
+  "slug": "asset",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "cyrillic-ext",
+    "latin",
+    "latin-ext",
+    "math",
+    "symbols"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v30",
+  "lastModified": "2025-09-08"
+}

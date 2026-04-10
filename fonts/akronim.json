@@ -1,0 +1,16 @@
+{
+  "family": "Akronim",
+  "slug": "akronim",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v23",
+  "lastModified": "2025-05-30"
+}

@@ -1,0 +1,25 @@
+{
+  "family": "Rethink Sans",
+  "slug": "rethink-sans",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "italic",
+    "500italic",
+    "600italic",
+    "700italic",
+    "800italic"
+  ],
+  "version": "v7",
+  "lastModified": "2025-09-05"
+}

@@ -1,0 +1,17 @@
+{
+  "family": "Sniglet",
+  "slug": "sniglet",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "800"
+  ],
+  "version": "v18",
+  "lastModified": "2025-09-10"
+}

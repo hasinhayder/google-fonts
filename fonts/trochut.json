@@ -1,0 +1,17 @@
+{
+  "family": "Trochut",
+  "slug": "trochut",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular",
+    "italic",
+    "700"
+  ],
+  "version": "v24",
+  "lastModified": "2025-09-10"
+}

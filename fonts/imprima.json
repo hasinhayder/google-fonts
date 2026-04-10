@@ -1,0 +1,16 @@
+{
+  "family": "Imprima",
+  "slug": "imprima",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v19",
+  "lastModified": "2025-09-10"
+}

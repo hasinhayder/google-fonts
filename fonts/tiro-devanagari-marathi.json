@@ -1,0 +1,18 @@
+{
+  "family": "Tiro Devanagari Marathi",
+  "slug": "tiro-devanagari-marathi",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "devanagari",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "italic"
+  ],
+  "version": "v5",
+  "lastModified": "2025-05-30"
+}

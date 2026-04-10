@@ -1,0 +1,18 @@
+{
+  "family": "Tiro Bangla",
+  "slug": "tiro-bangla",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "bengali",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "italic"
+  ],
+  "version": "v6",
+  "lastModified": "2025-05-30"
+}

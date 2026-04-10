@@ -1,0 +1,16 @@
+{
+  "family": "Shizuru",
+  "slug": "shizuru",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "japanese",
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v13",
+  "lastModified": "2025-09-10"
+}

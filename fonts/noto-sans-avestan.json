@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Avestan",
+  "slug": "noto-sans-avestan",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "avestan",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v22",
+  "lastModified": "2025-09-16"
+}

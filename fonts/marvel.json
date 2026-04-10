@@ -1,0 +1,18 @@
+{
+  "family": "Marvel",
+  "slug": "marvel",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular",
+    "italic",
+    "700",
+    "700italic"
+  ],
+  "version": "v17",
+  "lastModified": "2025-06-02"
+}

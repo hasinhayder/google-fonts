@@ -1,0 +1,23 @@
+{
+  "family": "Eczar",
+  "slug": "eczar",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "devanagari",
+    "greek",
+    "greek-ext",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800"
+  ],
+  "version": "v27",
+  "lastModified": "2025-09-16"
+}

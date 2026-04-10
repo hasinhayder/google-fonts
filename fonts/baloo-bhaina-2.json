@@ -1,0 +1,22 @@
+{
+  "family": "Baloo Bhaina 2",
+  "slug": "baloo-bhaina-2",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "oriya",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800"
+  ],
+  "version": "v29",
+  "lastModified": "2025-09-02"
+}

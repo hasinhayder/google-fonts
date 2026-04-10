@@ -1,0 +1,20 @@
+{
+  "family": "Noto Sans Adlam Unjoined",
+  "slug": "noto-sans-adlam-unjoined",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "adlam",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v28",
+  "lastModified": "2025-09-16"
+}

@@ -1,0 +1,20 @@
+{
+  "family": "BIZ UDMincho",
+  "slug": "biz-udmincho",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "greek-ext",
+    "japanese",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v11",
+  "lastModified": "2025-05-30"
+}

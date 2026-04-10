@@ -1,0 +1,18 @@
+{
+  "family": "Playwrite PT",
+  "slug": "playwrite-pt",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular"
+  ],
+  "version": "v10",
+  "lastModified": "2025-09-16"
+}

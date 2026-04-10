@@ -1,0 +1,18 @@
+{
+  "family": "Jacquarda Bastarda 9",
+  "slug": "jacquarda-bastarda-9",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "math",
+    "symbols"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v6",
+  "lastModified": "2025-09-17"
+}

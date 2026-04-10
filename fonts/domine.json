@@ -1,0 +1,19 @@
+{
+  "family": "Domine",
+  "slug": "domine",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v25",
+  "lastModified": "2025-09-11"
+}

@@ -1,0 +1,18 @@
+{
+  "family": "Nanum Gothic",
+  "slug": "nanum-gothic",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "korean",
+    "latin"
+  ],
+  "variants": [
+    "regular",
+    "700",
+    "800"
+  ],
+  "version": "v26",
+  "lastModified": "2025-05-30"
+}

@@ -1,0 +1,19 @@
+{
+  "family": "Cactus Classical Serif",
+  "slug": "cactus-classical-serif",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "chinese-traditional",
+    "cyrillic",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v15",
+  "lastModified": "2026-03-11"
+}

@@ -1,0 +1,25 @@
+{
+  "family": "Mohave",
+  "slug": "mohave",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "300italic",
+    "italic",
+    "500italic",
+    "600italic",
+    "700italic"
+  ],
+  "version": "v13",
+  "lastModified": "2025-09-05"
+}

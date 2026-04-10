@@ -1,0 +1,23 @@
+{
+  "family": "IBM Plex Sans KR",
+  "slug": "ibm-plex-sans-kr",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "korean",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v11",
+  "lastModified": "2025-09-08"
+}

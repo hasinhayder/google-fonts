@@ -1,0 +1,16 @@
+{
+  "family": "Tenali Ramakrishna",
+  "slug": "tenali-ramakrishna",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "telugu"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v14",
+  "lastModified": "2025-09-02"
+}

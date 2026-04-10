@@ -1,0 +1,19 @@
+{
+  "family": "Edu VIC WA NT Hand",
+  "slug": "edu-vic-wa-nt-hand",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v3",
+  "lastModified": "2025-09-08"
+}

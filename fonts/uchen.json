@@ -1,0 +1,16 @@
+{
+  "family": "Uchen",
+  "slug": "uchen",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "tibetan"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v11",
+  "lastModified": "2025-09-16"
+}

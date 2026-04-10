@@ -1,0 +1,17 @@
+{
+  "family": "Bpmf Zihi Kai Std",
+  "slug": "bpmf-zihi-kai-std",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "chinese-traditional",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v6",
+  "lastModified": "2026-03-11"
+}

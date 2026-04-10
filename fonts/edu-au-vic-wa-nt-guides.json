@@ -1,0 +1,19 @@
+{
+  "family": "Edu AU VIC WA NT Guides",
+  "slug": "edu-au-vic-wa-nt-guides",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v3",
+  "lastModified": "2025-09-08"
+}

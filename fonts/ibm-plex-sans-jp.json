@@ -1,0 +1,24 @@
+{
+  "family": "IBM Plex Sans JP",
+  "slug": "ibm-plex-sans-jp",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "japanese",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v7",
+  "lastModified": "2025-09-10"
+}

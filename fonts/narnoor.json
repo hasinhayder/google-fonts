@@ -1,0 +1,23 @@
+{
+  "family": "Narnoor",
+  "slug": "narnoor",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "gunjala-gondi",
+    "latin",
+    "latin-ext",
+    "math",
+    "symbols"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800"
+  ],
+  "version": "v10",
+  "lastModified": "2025-06-25"
+}

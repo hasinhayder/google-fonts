@@ -1,0 +1,19 @@
+{
+  "family": "Lobster",
+  "slug": "lobster",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v32",
+  "lastModified": "2025-09-08"
+}

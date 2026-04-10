@@ -1,0 +1,21 @@
+{
+  "family": "Material Symbols",
+  "slug": "material-symbols",
+  "categories": [
+    "monospace"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v52",
+  "lastModified": "2026-04-09"
+}

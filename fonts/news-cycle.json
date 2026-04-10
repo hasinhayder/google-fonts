@@ -1,0 +1,22 @@
+{
+  "family": "News Cycle",
+  "slug": "news-cycle",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "greek-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v26",
+  "lastModified": "2025-09-16"
+}

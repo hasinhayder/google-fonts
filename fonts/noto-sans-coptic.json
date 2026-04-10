@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Coptic",
+  "slug": "noto-sans-coptic",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "coptic",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v22",
+  "lastModified": "2025-09-05"
+}

@@ -1,0 +1,19 @@
+{
+  "family": "Rubik Moonrocks",
+  "slug": "rubik-moonrocks",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "hebrew",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v7",
+  "lastModified": "2025-09-10"
+}

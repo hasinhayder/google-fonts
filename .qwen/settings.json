@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(head *)",
+      "Bash(jq *)",
+      "Bash(bash *)"
+    ]
+  },
+  "$version": 3
+}

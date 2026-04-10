@@ -1,0 +1,16 @@
+{
+  "family": "Days One",
+  "slug": "days-one",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v19",
+  "lastModified": "2025-04-23"
+}

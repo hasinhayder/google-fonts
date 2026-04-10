@@ -1,0 +1,18 @@
+{
+  "family": "Rampart One",
+  "slug": "rampart-one",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "cyrillic",
+    "japanese",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v13",
+  "lastModified": "2025-09-05"
+}

@@ -1,0 +1,15 @@
+{
+  "family": "Boogaloo",
+  "slug": "boogaloo",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v25",
+  "lastModified": "2025-09-11"
+}

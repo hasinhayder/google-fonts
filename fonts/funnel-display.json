@@ -1,0 +1,21 @@
+{
+  "family": "Funnel Display",
+  "slug": "funnel-display",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800"
+  ],
+  "version": "v3",
+  "lastModified": "2025-09-10"
+}

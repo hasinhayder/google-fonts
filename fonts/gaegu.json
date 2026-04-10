@@ -1,0 +1,18 @@
+{
+  "family": "Gaegu",
+  "slug": "gaegu",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "korean",
+    "latin"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "700"
+  ],
+  "version": "v23",
+  "lastModified": "2025-09-10"
+}

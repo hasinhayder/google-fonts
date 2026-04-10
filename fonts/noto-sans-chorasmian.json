@@ -1,0 +1,19 @@
+{
+  "family": "Noto Sans Chorasmian",
+  "slug": "noto-sans-chorasmian",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "chorasmian",
+    "latin",
+    "latin-ext",
+    "math",
+    "symbols"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v3",
+  "lastModified": "2024-01-26"
+}

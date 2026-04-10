@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Phoenician",
+  "slug": "noto-sans-phoenician",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "phoenician"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v18",
+  "lastModified": "2025-09-11"
+}

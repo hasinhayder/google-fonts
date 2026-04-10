@@ -1,0 +1,16 @@
+{
+  "family": "Vibes",
+  "slug": "vibes",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "arabic",
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v16",
+  "lastModified": "2025-09-10"
+}

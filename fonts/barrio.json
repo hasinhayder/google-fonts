@@ -1,0 +1,16 @@
+{
+  "family": "Barrio",
+  "slug": "barrio",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v20",
+  "lastModified": "2025-09-11"
+}

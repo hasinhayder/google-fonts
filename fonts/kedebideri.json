@@ -1,0 +1,21 @@
+{
+  "family": "Kedebideri",
+  "slug": "kedebideri",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "beria-erfe",
+    "latin"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v6",
+  "lastModified": "2026-01-29"
+}

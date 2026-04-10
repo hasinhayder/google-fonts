@@ -1,0 +1,17 @@
+{
+  "family": "Mogra",
+  "slug": "mogra",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "gujarati",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v22",
+  "lastModified": "2025-09-11"
+}

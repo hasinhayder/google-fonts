@@ -1,0 +1,18 @@
+{
+  "family": "Mynerve",
+  "slug": "mynerve",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "greek",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v8",
+  "lastModified": "2025-09-05"
+}

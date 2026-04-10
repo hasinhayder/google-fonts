@@ -1,0 +1,21 @@
+{
+  "family": "Inria Sans",
+  "slug": "inria-sans",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "300",
+    "300italic",
+    "regular",
+    "italic",
+    "700",
+    "700italic"
+  ],
+  "version": "v15",
+  "lastModified": "2025-09-05"
+}

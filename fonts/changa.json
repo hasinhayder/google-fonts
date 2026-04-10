@@ -1,0 +1,23 @@
+{
+  "family": "Changa",
+  "slug": "changa",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "arabic",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800"
+  ],
+  "version": "v29",
+  "lastModified": "2025-09-10"
+}

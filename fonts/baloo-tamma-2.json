@@ -1,0 +1,22 @@
+{
+  "family": "Baloo Tamma 2",
+  "slug": "baloo-tamma-2",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "kannada",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800"
+  ],
+  "version": "v20",
+  "lastModified": "2025-09-11"
+}

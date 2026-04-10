@@ -1,0 +1,15 @@
+{
+  "family": "Italiana",
+  "slug": "italiana",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v21",
+  "lastModified": "2025-06-25"
+}

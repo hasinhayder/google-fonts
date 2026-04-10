@@ -1,0 +1,16 @@
+{
+  "family": "Architects Daughter",
+  "slug": "architects-daughter",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v20",
+  "lastModified": "2025-09-16"
+}

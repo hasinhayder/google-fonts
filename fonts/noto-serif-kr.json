@@ -1,0 +1,26 @@
+{
+  "family": "Noto Serif KR",
+  "slug": "noto-serif-kr",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "korean",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v31",
+  "lastModified": "2026-01-07"
+}

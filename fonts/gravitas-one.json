@@ -1,0 +1,15 @@
+{
+  "family": "Gravitas One",
+  "slug": "gravitas-one",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v21",
+  "lastModified": "2025-09-08"
+}

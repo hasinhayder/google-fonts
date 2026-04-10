@@ -1,0 +1,17 @@
+{
+  "family": "Noto Serif Todhri",
+  "slug": "noto-serif-todhri",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "todhri"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v3",
+  "lastModified": "2025-01-23"
+}

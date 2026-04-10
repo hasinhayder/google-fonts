@@ -1,0 +1,18 @@
+{
+  "family": "Life Savers",
+  "slug": "life-savers",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "700",
+    "800"
+  ],
+  "version": "v23",
+  "lastModified": "2025-09-08"
+}

@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Tagalog",
+  "slug": "noto-sans-tagalog",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "tagalog"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v23",
+  "lastModified": "2025-09-16"
+}

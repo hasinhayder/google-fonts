@@ -1,0 +1,22 @@
+{
+  "family": "Noto Naskh Arabic",
+  "slug": "noto-naskh-arabic",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "arabic",
+    "latin",
+    "latin-ext",
+    "math",
+    "symbols"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v44",
+  "lastModified": "2026-01-28"
+}

@@ -1,0 +1,16 @@
+{
+  "family": "Wendy One",
+  "slug": "wendy-one",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v20",
+  "lastModified": "2025-09-05"
+}

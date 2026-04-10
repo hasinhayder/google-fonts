@@ -1,0 +1,18 @@
+{
+  "family": "Libre Caslon Text",
+  "slug": "libre-caslon-text",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "italic",
+    "700"
+  ],
+  "version": "v5",
+  "lastModified": "2025-05-30"
+}

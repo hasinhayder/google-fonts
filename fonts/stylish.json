@@ -1,0 +1,15 @@
+{
+  "family": "Stylish",
+  "slug": "stylish",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "korean"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v25",
+  "lastModified": "2025-06-25"
+}

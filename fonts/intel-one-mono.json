@@ -1,0 +1,27 @@
+{
+  "family": "Intel One Mono",
+  "slug": "intel-one-mono",
+  "categories": [
+    "monospace"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "symbols2",
+    "vietnamese"
+  ],
+  "variants": [
+    "300",
+    "300italic",
+    "regular",
+    "italic",
+    "500",
+    "500italic",
+    "600",
+    "600italic",
+    "700",
+    "700italic"
+  ],
+  "version": "v2",
+  "lastModified": "2025-07-16"
+}

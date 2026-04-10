@@ -1,0 +1,15 @@
+{
+  "family": "Sofia",
+  "slug": "sofia",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v15",
+  "lastModified": "2025-09-05"
+}

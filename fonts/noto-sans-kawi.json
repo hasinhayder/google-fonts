@@ -1,0 +1,20 @@
+{
+  "family": "Noto Sans Kawi",
+  "slug": "noto-sans-kawi",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "kawi",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v5",
+  "lastModified": "2025-09-11"
+}

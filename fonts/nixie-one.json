@@ -1,0 +1,15 @@
+{
+  "family": "Nixie One",
+  "slug": "nixie-one",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v17",
+  "lastModified": "2025-09-10"
+}

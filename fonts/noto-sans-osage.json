@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Osage",
+  "slug": "noto-sans-osage",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "osage"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v20",
+  "lastModified": "2026-01-20"
+}

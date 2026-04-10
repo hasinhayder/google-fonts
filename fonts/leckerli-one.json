@@ -1,0 +1,15 @@
+{
+  "family": "Leckerli One",
+  "slug": "leckerli-one",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v22",
+  "lastModified": "2025-09-11"
+}

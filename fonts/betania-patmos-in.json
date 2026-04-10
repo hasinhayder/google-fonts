@@ -1,0 +1,16 @@
+{
+  "family": "Betania Patmos In",
+  "slug": "betania-patmos-in",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v2",
+  "lastModified": "2026-02-17"
+}

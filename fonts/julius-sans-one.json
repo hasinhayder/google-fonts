@@ -1,0 +1,16 @@
+{
+  "family": "Julius Sans One",
+  "slug": "julius-sans-one",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v20",
+  "lastModified": "2025-09-16"
+}

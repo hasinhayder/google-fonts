@@ -1,0 +1,17 @@
+{
+  "family": "Grandiflora One",
+  "slug": "grandiflora-one",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "korean",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v4",
+  "lastModified": "2026-03-03"
+}

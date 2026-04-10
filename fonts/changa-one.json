@@ -1,0 +1,16 @@
+{
+  "family": "Changa One",
+  "slug": "changa-one",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular",
+    "italic"
+  ],
+  "version": "v22",
+  "lastModified": "2025-09-10"
+}

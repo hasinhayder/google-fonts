@@ -1,0 +1,25 @@
+{
+  "family": "Vazirmatn",
+  "slug": "vazirmatn",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "arabic",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v16",
+  "lastModified": "2025-09-10"
+}

@@ -1,0 +1,15 @@
+{
+  "family": "Material Icons Outlined",
+  "slug": "material-icons-outlined",
+  "categories": [
+    "monospace"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v110",
+  "lastModified": "2025-06-17"
+}

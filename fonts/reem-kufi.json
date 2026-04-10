@@ -1,0 +1,21 @@
+{
+  "family": "Reem Kufi",
+  "slug": "reem-kufi",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "arabic",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v28",
+  "lastModified": "2025-09-05"
+}

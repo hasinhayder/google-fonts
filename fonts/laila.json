@@ -1,0 +1,21 @@
+{
+  "family": "Laila",
+  "slug": "laila",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "devanagari",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v20",
+  "lastModified": "2025-06-25"
+}

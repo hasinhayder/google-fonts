@@ -1,0 +1,18 @@
+{
+  "family": "Belanosima",
+  "slug": "belanosima",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "600",
+    "700"
+  ],
+  "version": "v4",
+  "lastModified": "2025-06-02"
+}

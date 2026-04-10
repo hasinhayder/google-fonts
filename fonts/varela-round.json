@@ -1,0 +1,18 @@
+{
+  "family": "Varela Round",
+  "slug": "varela-round",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "hebrew",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v21",
+  "lastModified": "2025-09-11"
+}

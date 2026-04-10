@@ -1,0 +1,20 @@
+{
+  "family": "Cabin Condensed",
+  "slug": "cabin-condensed",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v21",
+  "lastModified": "2025-09-08"
+}

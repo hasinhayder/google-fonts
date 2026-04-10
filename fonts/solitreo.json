@@ -1,0 +1,17 @@
+{
+  "family": "Solitreo",
+  "slug": "solitreo",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "hebrew",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v2",
+  "lastModified": "2025-05-30"
+}

@@ -1,0 +1,21 @@
+{
+  "family": "Cormorant Upright",
+  "slug": "cormorant-upright",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v19",
+  "lastModified": "2025-09-16"
+}

@@ -1,0 +1,16 @@
+{
+  "family": "Ma Shan Zheng",
+  "slug": "ma-shan-zheng",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "chinese-simplified",
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v17",
+  "lastModified": "2026-02-17"
+}

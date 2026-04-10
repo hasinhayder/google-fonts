@@ -1,0 +1,18 @@
+{
+  "family": "Kosugi Maru",
+  "slug": "kosugi-maru",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "japanese",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v17",
+  "lastModified": "2025-09-08"
+}

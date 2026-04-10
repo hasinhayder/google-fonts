@@ -1,0 +1,16 @@
+{
+  "family": "Arbutus",
+  "slug": "arbutus",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v30",
+  "lastModified": "2025-09-11"
+}

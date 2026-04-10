@@ -1,0 +1,21 @@
+{
+  "family": "Stack Sans Headline",
+  "slug": "stack-sans-headline",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v1",
+  "lastModified": "2025-11-04"
+}

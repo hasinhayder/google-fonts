@@ -1,0 +1,16 @@
+{
+  "family": "Damion",
+  "slug": "damion",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v15",
+  "lastModified": "2025-05-30"
+}

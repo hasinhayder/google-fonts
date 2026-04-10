@@ -1,0 +1,16 @@
+{
+  "family": "Marcellus",
+  "slug": "marcellus",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v14",
+  "lastModified": "2025-09-11"
+}

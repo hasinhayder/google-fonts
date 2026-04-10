@@ -1,0 +1,23 @@
+{
+  "family": "Mukta Vaani",
+  "slug": "mukta-vaani",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "gujarati",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800"
+  ],
+  "version": "v15",
+  "lastModified": "2025-09-08"
+}

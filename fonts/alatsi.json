@@ -1,0 +1,18 @@
+{
+  "family": "Alatsi",
+  "slug": "alatsi",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v14",
+  "lastModified": "2025-09-10"
+}

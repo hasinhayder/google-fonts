@@ -1,0 +1,16 @@
+{
+  "family": "Rock 3D",
+  "slug": "rock-3d",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "japanese",
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v13",
+  "lastModified": "2025-09-02"
+}

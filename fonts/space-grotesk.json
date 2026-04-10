@@ -1,0 +1,21 @@
+{
+  "family": "Space Grotesk",
+  "slug": "space-grotesk",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v22",
+  "lastModified": "2025-09-05"
+}

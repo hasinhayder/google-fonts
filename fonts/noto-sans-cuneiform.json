@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Cuneiform",
+  "slug": "noto-sans-cuneiform",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cuneiform",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v18",
+  "lastModified": "2025-09-16"
+}

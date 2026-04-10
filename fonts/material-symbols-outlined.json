@@ -1,0 +1,21 @@
+{
+  "family": "Material Symbols Outlined",
+  "slug": "material-symbols-outlined",
+  "categories": [
+    "monospace"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v324",
+  "lastModified": "2026-04-09"
+}

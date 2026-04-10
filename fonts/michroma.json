@@ -1,0 +1,16 @@
+{
+  "family": "Michroma",
+  "slug": "michroma",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v21",
+  "lastModified": "2025-09-05"
+}

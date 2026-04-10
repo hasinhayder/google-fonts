@@ -1,0 +1,19 @@
+{
+  "family": "Zen Kurenaido",
+  "slug": "zen-kurenaido",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "greek",
+    "japanese",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v19",
+  "lastModified": "2025-09-10"
+}

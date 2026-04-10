@@ -1,0 +1,16 @@
+{
+  "family": "Galada",
+  "slug": "galada",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "bengali",
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v21",
+  "lastModified": "2025-09-11"
+}

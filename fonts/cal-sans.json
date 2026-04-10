@@ -1,0 +1,17 @@
+{
+  "family": "Cal Sans",
+  "slug": "cal-sans",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v2",
+  "lastModified": "2025-06-09"
+}

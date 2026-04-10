@@ -1,0 +1,18 @@
+{
+  "family": "Qwitcher Grypen",
+  "slug": "qwitcher-grypen",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v8",
+  "lastModified": "2025-09-08"
+}

@@ -1,0 +1,19 @@
+{
+  "family": "Kode Mono",
+  "slug": "kode-mono",
+  "categories": [
+    "monospace"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v4",
+  "lastModified": "2025-09-10"
+}

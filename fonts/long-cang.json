@@ -1,0 +1,16 @@
+{
+  "family": "Long Cang",
+  "slug": "long-cang",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "chinese-simplified",
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v21",
+  "lastModified": "2025-09-08"
+}

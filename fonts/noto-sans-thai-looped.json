@@ -1,0 +1,25 @@
+{
+  "family": "Noto Sans Thai Looped",
+  "slug": "noto-sans-thai-looped",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "thai"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v16",
+  "lastModified": "2025-09-05"
+}

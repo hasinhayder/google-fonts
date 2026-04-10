@@ -1,0 +1,26 @@
+{
+  "family": "Yanone Kaffeesatz",
+  "slug": "yanone-kaffeesatz",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "latin-ext",
+    "math",
+    "symbols",
+    "vietnamese"
+  ],
+  "variants": [
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v32",
+  "lastModified": "2025-09-16"
+}

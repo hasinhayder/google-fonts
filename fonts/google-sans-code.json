@@ -1,0 +1,36 @@
+{
+  "family": "Google Sans Code",
+  "slug": "google-sans-code",
+  "categories": [
+    "monospace"
+  ],
+  "subsets": [
+    "adlam",
+    "canadian-aboriginal",
+    "cherokee",
+    "latin",
+    "latin-ext",
+    "math",
+    "old-permic",
+    "symbols",
+    "symbols2",
+    "syriac",
+    "vietnamese"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "300italic",
+    "italic",
+    "500italic",
+    "600italic",
+    "700italic",
+    "800italic"
+  ],
+  "version": "v14",
+  "lastModified": "2025-09-16"
+}

@@ -1,0 +1,19 @@
+{
+  "family": "PT Sans Narrow",
+  "slug": "pt-sans-narrow",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v19",
+  "lastModified": "2025-09-05"
+}

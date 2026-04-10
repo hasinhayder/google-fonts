@@ -1,0 +1,16 @@
+{
+  "family": "Sirivennela",
+  "slug": "sirivennela",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "telugu"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v2",
+  "lastModified": "2025-08-26"
+}

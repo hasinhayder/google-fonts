@@ -1,0 +1,26 @@
+{
+  "family": "Dai Banna SIL",
+  "slug": "dai-banna-sil",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "new-tai-lue"
+  ],
+  "variants": [
+    "300",
+    "300italic",
+    "regular",
+    "italic",
+    "500",
+    "500italic",
+    "600",
+    "600italic",
+    "700",
+    "700italic"
+  ],
+  "version": "v2",
+  "lastModified": "2025-05-30"
+}

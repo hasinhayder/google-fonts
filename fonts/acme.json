@@ -1,0 +1,15 @@
+{
+  "family": "Acme",
+  "slug": "acme",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v27",
+  "lastModified": "2025-09-16"
+}

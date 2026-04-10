@@ -1,0 +1,22 @@
+{
+  "family": "Vollkorn SC",
+  "slug": "vollkorn-sc",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "600",
+    "700",
+    "900"
+  ],
+  "version": "v12",
+  "lastModified": "2025-09-11"
+}

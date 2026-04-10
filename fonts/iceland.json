@@ -1,0 +1,15 @@
+{
+  "family": "Iceland",
+  "slug": "iceland",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v22",
+  "lastModified": "2025-09-02"
+}

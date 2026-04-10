@@ -1,0 +1,27 @@
+{
+  "family": "Noto Sans JP",
+  "slug": "noto-sans-jp",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "japanese",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v56",
+  "lastModified": "2026-01-07"
+}

@@ -1,0 +1,20 @@
+{
+  "family": "Kablammo",
+  "slug": "kablammo",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "emoji",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v4",
+  "lastModified": "2025-09-11"
+}

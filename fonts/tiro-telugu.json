@@ -1,0 +1,18 @@
+{
+  "family": "Tiro Telugu",
+  "slug": "tiro-telugu",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "telugu"
+  ],
+  "variants": [
+    "regular",
+    "italic"
+  ],
+  "version": "v7",
+  "lastModified": "2025-05-30"
+}

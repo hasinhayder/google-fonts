@@ -1,0 +1,18 @@
+{
+  "family": "Playwrite FR Trad",
+  "slug": "playwrite-fr-trad",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular"
+  ],
+  "version": "v13",
+  "lastModified": "2025-09-11"
+}

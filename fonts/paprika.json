@@ -1,0 +1,16 @@
+{
+  "family": "Paprika",
+  "slug": "paprika",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v24",
+  "lastModified": "2025-09-11"
+}

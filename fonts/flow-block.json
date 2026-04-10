@@ -1,0 +1,19 @@
+{
+  "family": "Flow Block",
+  "slug": "flow-block",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v15",
+  "lastModified": "2025-09-17"
+}

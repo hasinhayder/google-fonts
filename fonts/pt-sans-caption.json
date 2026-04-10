@@ -1,0 +1,19 @@
+{
+  "family": "PT Sans Caption",
+  "slug": "pt-sans-caption",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v20",
+  "lastModified": "2025-09-05"
+}

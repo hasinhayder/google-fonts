@@ -1,0 +1,16 @@
+{
+  "family": "Bayon",
+  "slug": "bayon",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "khmer",
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v36",
+  "lastModified": "2025-09-11"
+}

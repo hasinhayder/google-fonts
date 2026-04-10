@@ -1,0 +1,16 @@
+{
+  "family": "Bubblegum Sans",
+  "slug": "bubblegum-sans",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v22",
+  "lastModified": "2025-09-02"
+}

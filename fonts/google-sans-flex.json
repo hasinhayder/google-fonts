@@ -1,0 +1,32 @@
+{
+  "family": "Google Sans Flex",
+  "slug": "google-sans-flex",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "canadian-aboriginal",
+    "cherokee",
+    "latin",
+    "latin-ext",
+    "math",
+    "nushu",
+    "symbols",
+    "syriac",
+    "tifinagh",
+    "vietnamese"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v19",
+  "lastModified": "2026-04-02"
+}

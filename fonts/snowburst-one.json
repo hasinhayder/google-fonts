@@ -1,0 +1,16 @@
+{
+  "family": "Snowburst One",
+  "slug": "snowburst-one",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v21",
+  "lastModified": "2025-09-02"
+}

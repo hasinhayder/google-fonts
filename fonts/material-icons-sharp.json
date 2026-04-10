@@ -1,0 +1,15 @@
+{
+  "family": "Material Icons Sharp",
+  "slug": "material-icons-sharp",
+  "categories": [
+    "monospace"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v110",
+  "lastModified": "2025-06-17"
+}

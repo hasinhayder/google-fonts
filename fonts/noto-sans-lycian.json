@@ -1,0 +1,15 @@
+{
+  "family": "Noto Sans Lycian",
+  "slug": "noto-sans-lycian",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "lycian"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v16",
+  "lastModified": "2025-09-08"
+}

@@ -1,0 +1,20 @@
+{
+  "family": "Great Vibes",
+  "slug": "great-vibes",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v21",
+  "lastModified": "2025-09-05"
+}

@@ -1,0 +1,15 @@
+{
+  "family": "Playwrite DE Grund Guides",
+  "slug": "playwrite-de-grund-guides",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v1",
+  "lastModified": "2025-05-30"
+}

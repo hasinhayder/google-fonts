@@ -1,0 +1,19 @@
+{
+  "family": "Shafarik",
+  "slug": "shafarik",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "glagolitic",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v3",
+  "lastModified": "2025-05-30"
+}

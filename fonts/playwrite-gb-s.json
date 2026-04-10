@@ -1,0 +1,22 @@
+{
+  "family": "Playwrite GB S",
+  "slug": "playwrite-gb-s",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "100italic",
+    "200italic",
+    "300italic",
+    "italic"
+  ],
+  "version": "v12",
+  "lastModified": "2025-09-08"
+}

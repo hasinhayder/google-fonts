@@ -1,0 +1,16 @@
+{
+  "family": "Phetsarath",
+  "slug": "phetsarath",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "lao"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v3",
+  "lastModified": "2025-09-17"
+}

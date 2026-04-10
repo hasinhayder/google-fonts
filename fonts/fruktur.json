@@ -1,0 +1,19 @@
+{
+  "family": "Fruktur",
+  "slug": "fruktur",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "cyrillic-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "italic"
+  ],
+  "version": "v28",
+  "lastModified": "2025-09-05"
+}

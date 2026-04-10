@@ -1,0 +1,16 @@
+{
+  "family": "Shanti",
+  "slug": "shanti",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v25",
+  "lastModified": "2025-05-30"
+}

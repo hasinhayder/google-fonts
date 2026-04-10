@@ -1,0 +1,22 @@
+{
+  "family": "Alkatra",
+  "slug": "alkatra",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "bengali",
+    "devanagari",
+    "latin",
+    "latin-ext",
+    "oriya"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v5",
+  "lastModified": "2025-09-08"
+}

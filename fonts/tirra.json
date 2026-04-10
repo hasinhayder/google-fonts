@@ -1,0 +1,22 @@
+{
+  "family": "Tirra",
+  "slug": "tirra",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "tifinagh"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v2",
+  "lastModified": "2025-08-26"
+}

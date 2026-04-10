@@ -1,0 +1,24 @@
+{
+  "family": "Cardo",
+  "slug": "cardo",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "gothic",
+    "greek",
+    "greek-ext",
+    "hebrew",
+    "latin",
+    "latin-ext",
+    "old-italic",
+    "runic"
+  ],
+  "variants": [
+    "regular",
+    "italic",
+    "700"
+  ],
+  "version": "v21",
+  "lastModified": "2025-09-08"
+}

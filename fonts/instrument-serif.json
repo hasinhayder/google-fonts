@@ -1,0 +1,17 @@
+{
+  "family": "Instrument Serif",
+  "slug": "instrument-serif",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "italic"
+  ],
+  "version": "v5",
+  "lastModified": "2025-09-05"
+}

@@ -1,0 +1,25 @@
+{
+  "family": "Noto Sans Tamil",
+  "slug": "noto-sans-tamil",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "tamil"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v31",
+  "lastModified": "2025-09-16"
+}

@@ -1,0 +1,25 @@
+{
+  "family": "Noto Sans Lao",
+  "slug": "noto-sans-lao",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "lao",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v33",
+  "lastModified": "2025-09-02"
+}

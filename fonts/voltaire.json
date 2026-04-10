@@ -1,0 +1,17 @@
+{
+  "family": "Voltaire",
+  "slug": "voltaire",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v23",
+  "lastModified": "2025-09-10"
+}

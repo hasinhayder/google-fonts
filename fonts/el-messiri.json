@@ -1,0 +1,21 @@
+{
+  "family": "El Messiri",
+  "slug": "el-messiri",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "arabic",
+    "cyrillic",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v25",
+  "lastModified": "2025-09-11"
+}

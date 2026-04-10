@@ -1,0 +1,21 @@
+{
+  "family": "Abhaya Libre",
+  "slug": "abhaya-libre",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "sinhala"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800"
+  ],
+  "version": "v18",
+  "lastModified": "2025-09-16"
+}

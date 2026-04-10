@@ -1,0 +1,24 @@
+{
+  "family": "IBM Plex Sans Thai",
+  "slug": "ibm-plex-sans-thai",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic-ext",
+    "latin",
+    "latin-ext",
+    "thai"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v11",
+  "lastModified": "2025-09-02"
+}

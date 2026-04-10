@@ -1,0 +1,25 @@
+{
+  "family": "Noto Sans Cherokee",
+  "slug": "noto-sans-cherokee",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cherokee",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v25",
+  "lastModified": "2025-09-05"
+}

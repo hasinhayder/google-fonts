@@ -1,0 +1,25 @@
+{
+  "family": "Noto Sans Gurmukhi",
+  "slug": "noto-sans-gurmukhi",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "gurmukhi",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v29",
+  "lastModified": "2025-09-05"
+}

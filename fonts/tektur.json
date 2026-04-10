@@ -1,0 +1,25 @@
+{
+  "family": "Tektur",
+  "slug": "tektur",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v6",
+  "lastModified": "2025-09-16"
+}

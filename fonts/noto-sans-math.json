@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Math",
+  "slug": "noto-sans-math",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "latin",
+    "math"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v18",
+  "lastModified": "2025-09-02"
+}

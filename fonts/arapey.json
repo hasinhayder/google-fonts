@@ -1,0 +1,16 @@
+{
+  "family": "Arapey",
+  "slug": "arapey",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular",
+    "italic"
+  ],
+  "version": "v17",
+  "lastModified": "2025-09-02"
+}

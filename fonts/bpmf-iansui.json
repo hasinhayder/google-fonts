@@ -1,0 +1,17 @@
+{
+  "family": "Bpmf Iansui",
+  "slug": "bpmf-iansui",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "chinese-traditional",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v6",
+  "lastModified": "2026-03-11"
+}

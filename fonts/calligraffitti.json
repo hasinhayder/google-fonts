@@ -1,0 +1,15 @@
+{
+  "family": "Calligraffitti",
+  "slug": "calligraffitti",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v20",
+  "lastModified": "2025-09-08"
+}

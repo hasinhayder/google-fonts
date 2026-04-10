@@ -1,0 +1,16 @@
+{
+  "family": "Raleway Dots",
+  "slug": "raleway-dots",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v19",
+  "lastModified": "2025-09-11"
+}

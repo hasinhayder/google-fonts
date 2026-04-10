@@ -1,0 +1,19 @@
+{
+  "family": "Borel",
+  "slug": "borel",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "math",
+    "symbols",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v10",
+  "lastModified": "2025-12-10"
+}

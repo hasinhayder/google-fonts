@@ -1,0 +1,17 @@
+{
+  "family": "Poly",
+  "slug": "poly",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "italic"
+  ],
+  "version": "v18",
+  "lastModified": "2025-09-08"
+}

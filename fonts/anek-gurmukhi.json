@@ -1,0 +1,24 @@
+{
+  "family": "Anek Gurmukhi",
+  "slug": "anek-gurmukhi",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "gurmukhi",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800"
+  ],
+  "version": "v13",
+  "lastModified": "2025-09-05"
+}

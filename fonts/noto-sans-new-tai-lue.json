@@ -1,0 +1,20 @@
+{
+  "family": "Noto Sans New Tai Lue",
+  "slug": "noto-sans-new-tai-lue",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "new-tai-lue"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v24",
+  "lastModified": "2025-09-02"
+}

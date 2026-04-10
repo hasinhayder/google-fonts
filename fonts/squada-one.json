@@ -1,0 +1,15 @@
+{
+  "family": "Squada One",
+  "slug": "squada-one",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v20",
+  "lastModified": "2025-09-10"
+}

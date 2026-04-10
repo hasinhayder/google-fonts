@@ -1,0 +1,20 @@
+{
+  "family": "BioRhyme Expanded",
+  "slug": "biorhyme-expanded",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "200",
+    "300",
+    "regular",
+    "700",
+    "800"
+  ],
+  "version": "v23",
+  "lastModified": "2025-09-08"
+}

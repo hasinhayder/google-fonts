@@ -1,0 +1,17 @@
+{
+  "family": "Patrick Hand SC",
+  "slug": "patrick-hand-sc",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v17",
+  "lastModified": "2025-09-10"
+}

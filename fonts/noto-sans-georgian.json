@@ -1,0 +1,29 @@
+{
+  "family": "Noto Sans Georgian",
+  "slug": "noto-sans-georgian",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic-ext",
+    "georgian",
+    "greek-ext",
+    "latin",
+    "latin-ext",
+    "math",
+    "symbols"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v48",
+  "lastModified": "2025-09-05"
+}

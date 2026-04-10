@@ -1,0 +1,18 @@
+{
+  "family": "Comforter",
+  "slug": "comforter",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "cyrillic",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v9",
+  "lastModified": "2025-09-10"
+}

@@ -1,0 +1,20 @@
+{
+  "family": "Monda",
+  "slug": "monda",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v19",
+  "lastModified": "2025-09-11"
+}

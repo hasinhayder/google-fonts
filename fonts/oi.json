@@ -1,0 +1,22 @@
+{
+  "family": "Oi",
+  "slug": "oi",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "arabic",
+    "cyrillic",
+    "cyrillic-ext",
+    "greek",
+    "latin",
+    "latin-ext",
+    "tamil",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v21",
+  "lastModified": "2025-09-05"
+}

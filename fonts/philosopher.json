@@ -1,0 +1,22 @@
+{
+  "family": "Philosopher",
+  "slug": "philosopher",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "italic",
+    "700",
+    "700italic"
+  ],
+  "version": "v21",
+  "lastModified": "2025-09-10"
+}

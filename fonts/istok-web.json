@@ -1,0 +1,21 @@
+{
+  "family": "Istok Web",
+  "slug": "istok-web",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "italic",
+    "700",
+    "700italic"
+  ],
+  "version": "v26",
+  "lastModified": "2025-09-10"
+}

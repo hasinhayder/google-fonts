@@ -1,0 +1,18 @@
+{
+  "family": "Playwrite NZ Basic",
+  "slug": "playwrite-nz-basic",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular"
+  ],
+  "version": "v1",
+  "lastModified": "2026-01-28"
+}

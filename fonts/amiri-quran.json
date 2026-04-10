@@ -1,0 +1,16 @@
+{
+  "family": "Amiri Quran",
+  "slug": "amiri-quran",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "arabic",
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v19",
+  "lastModified": "2025-08-26"
+}

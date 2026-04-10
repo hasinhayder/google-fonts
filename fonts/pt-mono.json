@@ -1,0 +1,18 @@
+{
+  "family": "PT Mono",
+  "slug": "pt-mono",
+  "categories": [
+    "monospace"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v14",
+  "lastModified": "2025-09-08"
+}

@@ -1,0 +1,17 @@
+{
+  "family": "Inika",
+  "slug": "inika",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v22",
+  "lastModified": "2025-09-05"
+}

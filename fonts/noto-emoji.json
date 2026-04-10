@@ -1,0 +1,19 @@
+{
+  "family": "Noto Emoji",
+  "slug": "noto-emoji",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "emoji"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v62",
+  "lastModified": "2025-11-26"
+}

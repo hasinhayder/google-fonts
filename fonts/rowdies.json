@@ -1,0 +1,19 @@
+{
+  "family": "Rowdies",
+  "slug": "rowdies",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "700"
+  ],
+  "version": "v19",
+  "lastModified": "2025-09-05"
+}

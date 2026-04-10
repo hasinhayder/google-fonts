@@ -1,0 +1,24 @@
+{
+  "family": "Hanuman",
+  "slug": "hanuman",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "khmer",
+    "latin"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900"
+  ],
+  "version": "v24",
+  "lastModified": "2025-06-12"
+}

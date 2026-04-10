@@ -1,0 +1,16 @@
+{
+  "family": "Monsieur La Doulaise",
+  "slug": "monsieur-la-doulaise",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v20",
+  "lastModified": "2025-09-08"
+}

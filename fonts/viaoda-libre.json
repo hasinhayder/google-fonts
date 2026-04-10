@@ -1,0 +1,19 @@
+{
+  "family": "Viaoda Libre",
+  "slug": "viaoda-libre",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v20",
+  "lastModified": "2025-09-08"
+}

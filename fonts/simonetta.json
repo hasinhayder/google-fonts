@@ -1,0 +1,19 @@
+{
+  "family": "Simonetta",
+  "slug": "simonetta",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "italic",
+    "900",
+    "900italic"
+  ],
+  "version": "v29",
+  "lastModified": "2025-09-11"
+}

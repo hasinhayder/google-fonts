@@ -1,0 +1,16 @@
+{
+  "family": "Karla Tamil Inclined",
+  "slug": "karla-tamil-inclined",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "tamil"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v2",
+  "lastModified": "2024-10-29"
+}

@@ -1,0 +1,18 @@
+{
+  "family": "Prata",
+  "slug": "prata",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v22",
+  "lastModified": "2025-09-16"
+}

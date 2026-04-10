@@ -1,0 +1,21 @@
+{
+  "family": "Hind Guntur",
+  "slug": "hind-guntur",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "telugu"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v14",
+  "lastModified": "2025-09-08"
+}

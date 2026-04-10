@@ -1,0 +1,19 @@
+{
+  "family": "Solway",
+  "slug": "solway",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "500",
+    "700",
+    "800"
+  ],
+  "version": "v19",
+  "lastModified": "2025-09-08"
+}

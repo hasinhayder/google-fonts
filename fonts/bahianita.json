@@ -1,0 +1,17 @@
+{
+  "family": "Bahianita",
+  "slug": "bahianita",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v23",
+  "lastModified": "2025-09-10"
+}

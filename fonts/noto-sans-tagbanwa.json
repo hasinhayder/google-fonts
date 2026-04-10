@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Tagbanwa",
+  "slug": "noto-sans-tagbanwa",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "tagbanwa"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v21",
+  "lastModified": "2026-01-20"
+}

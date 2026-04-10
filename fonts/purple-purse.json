@@ -1,0 +1,16 @@
+{
+  "family": "Purple Purse",
+  "slug": "purple-purse",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v25",
+  "lastModified": "2025-09-10"
+}

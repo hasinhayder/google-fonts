@@ -1,0 +1,26 @@
+{
+  "family": "Andada Pro",
+  "slug": "andada-pro",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700",
+    "800",
+    "italic",
+    "500italic",
+    "600italic",
+    "700italic",
+    "800italic"
+  ],
+  "version": "v24",
+  "lastModified": "2025-09-10"
+}

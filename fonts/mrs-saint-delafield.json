@@ -1,0 +1,16 @@
+{
+  "family": "Mrs Saint Delafield",
+  "slug": "mrs-saint-delafield",
+  "categories": [
+    "handwriting"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v14",
+  "lastModified": "2025-09-16"
+}

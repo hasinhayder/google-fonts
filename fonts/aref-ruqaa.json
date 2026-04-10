@@ -1,0 +1,18 @@
+{
+  "family": "Aref Ruqaa",
+  "slug": "aref-ruqaa",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "arabic",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "700"
+  ],
+  "version": "v26",
+  "lastModified": "2025-09-11"
+}

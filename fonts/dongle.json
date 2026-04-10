@@ -1,0 +1,20 @@
+{
+  "family": "Dongle",
+  "slug": "dongle",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "korean",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "variants": [
+    "300",
+    "regular",
+    "700"
+  ],
+  "version": "v16",
+  "lastModified": "2025-09-16"
+}

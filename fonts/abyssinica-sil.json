@@ -1,0 +1,17 @@
+{
+  "family": "Abyssinica SIL",
+  "slug": "abyssinica-sil",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "ethiopic",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v9",
+  "lastModified": "2025-09-10"
+}

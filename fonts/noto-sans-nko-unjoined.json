@@ -1,0 +1,20 @@
+{
+  "family": "Noto Sans NKo Unjoined",
+  "slug": "noto-sans-nko-unjoined",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "nko"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v4",
+  "lastModified": "2025-09-08"
+}

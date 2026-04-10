@@ -1,0 +1,15 @@
+{
+  "family": "Geostar Fill",
+  "slug": "geostar-fill",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v27",
+  "lastModified": "2025-06-02"
+}

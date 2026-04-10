@@ -1,0 +1,20 @@
+{
+  "family": "Koh Santepheap",
+  "slug": "koh-santepheap",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "khmer",
+    "latin"
+  ],
+  "variants": [
+    "100",
+    "300",
+    "regular",
+    "700",
+    "900"
+  ],
+  "version": "v15",
+  "lastModified": "2025-09-10"
+}

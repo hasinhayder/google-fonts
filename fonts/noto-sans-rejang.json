@@ -1,0 +1,17 @@
+{
+  "family": "Noto Sans Rejang",
+  "slug": "noto-sans-rejang",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "rejang"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v23",
+  "lastModified": "2025-12-10"
+}

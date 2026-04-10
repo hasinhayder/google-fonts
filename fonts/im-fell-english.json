@@ -1,0 +1,16 @@
+{
+  "family": "IM Fell English",
+  "slug": "im-fell-english",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "regular",
+    "italic"
+  ],
+  "version": "v14",
+  "lastModified": "2025-05-30"
+}

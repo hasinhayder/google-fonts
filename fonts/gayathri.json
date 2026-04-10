@@ -1,0 +1,18 @@
+{
+  "family": "Gayathri",
+  "slug": "gayathri",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "malayalam"
+  ],
+  "variants": [
+    "100",
+    "regular",
+    "700"
+  ],
+  "version": "v20",
+  "lastModified": "2025-09-05"
+}

@@ -1,0 +1,19 @@
+{
+  "family": "PT Serif Caption",
+  "slug": "pt-serif-caption",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular",
+    "italic"
+  ],
+  "version": "v18",
+  "lastModified": "2025-09-10"
+}

@@ -1,0 +1,20 @@
+{
+  "family": "Noto Sans Nag Mundari",
+  "slug": "noto-sans-nag-mundari",
+  "categories": [
+    "sans-serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "nag-mundari"
+  ],
+  "variants": [
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v4",
+  "lastModified": "2025-09-08"
+}

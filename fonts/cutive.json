@@ -1,0 +1,16 @@
+{
+  "family": "Cutive",
+  "slug": "cutive",
+  "categories": [
+    "serif"
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v24",
+  "lastModified": "2025-09-11"
+}

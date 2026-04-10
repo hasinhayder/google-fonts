@@ -1,0 +1,18 @@
+{
+  "family": "Train One",
+  "slug": "train-one",
+  "categories": [
+    "display"
+  ],
+  "subsets": [
+    "cyrillic",
+    "japanese",
+    "latin",
+    "latin-ext"
+  ],
+  "variants": [
+    "regular"
+  ],
+  "version": "v16",
+  "lastModified": "2025-09-05"
+}

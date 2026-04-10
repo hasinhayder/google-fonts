@@ -1,0 +1,21 @@
+{
+  "family": "Material Symbols Sharp",
+  "slug": "material-symbols-sharp",
+  "categories": [
+    "monospace"
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "variants": [
+    "100",
+    "200",
+    "300",
+    "regular",
+    "500",
+    "600",
+    "700"
+  ],
+  "version": "v321",
+  "lastModified": "2026-04-09"
+}
