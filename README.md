@@ -2,15 +2,17 @@
 
 This repository contains a structured JSON index of Google Fonts, organized by font category and script subset.
 
-The dataset is split into top-level manifests and per-category folders so it is easy to query either the full catalog or a narrower slice of it.
+The dataset is split into top-level manifests and nested folders so it is easy to query either the full catalog or a narrower slice of it.
 
-## What’s included
+## What's included
 
 - `fonts.json`: the full list of font family names in the dataset.
 - `categories.json`: the supported font categories.
 - `subsets.json`: the supported script and language subsets.
-- `display/`, `handwriting/`, `monospace/`, `sans-serif/`, `serif/`: category-specific indexes.
-- Nested subset folders inside each category: subset-specific font lists.
+- `updated.json`: timestamp of the last time the manifests were generated.
+- `categories/`: category-specific indexes (`display`, `handwriting`, `monospace`, `sans-serif`, `serif`).
+- `subsets/`: subset-specific indexes (`latin`, `arabic`, `cyrillic`, `devanagari`, etc.).
+- `fonts/`: per-font metadata files — one JSON file per font family.
 
 ## Repository structure
 
@@ -19,46 +21,98 @@ The dataset is split into top-level manifests and per-category folders so it is 
 ├── categories.json
 ├── fonts.json
 ├── subsets.json
-├── display/
-├── handwriting/
-├── monospace/
-├── sans-serif/
-└── serif/
-```
-
-Each category folder follows the same pattern:
-
-```text
-category/
-├── fonts.json
-├── subsets.json
-└── subset-name/
-    └── fonts.json
+├── updated.json
+├── categories/
+│   └── <category>/
+│       ├── fonts.json
+│       ├── subsets.json
+│       └── <subset>/
+│           └── fonts.json
+├── subsets/
+│   └── <subset>/
+│       ├── fonts.json
+│       ├── categories.json
+│       └── <category>/
+│           └── fonts.json
+└── fonts/
+    └── <slug>.json
 ```
 
 ## Data format
 
-All manifest files use the same simple shape:
+### Top-level manifests
 
 ```json
+// fonts.json
 {
   "fonts": ["ABeeZee", "ADLaM Display", "Arimo"]
 }
 ```
 
-Category and subset listing files use the same shape with a different key name:
-
 ```json
+// categories.json
 {
-	"categories": ["display", "handwriting", "monospace", "sans-serif", "serif"]
+  "categories": ["display", "handwriting", "monospace", "sans-serif", "serif"]
 }
 ```
 
 ```json
+// subsets.json
 {
-	"subsets": ["latin", "latin-ext", "cyrillic", "greek", "japanese"]
+  "subsets": ["latin", "latin-ext", "cyrillic", "greek", "japanese"]
 }
 ```
+
+```json
+// updated.json
+{
+  "last_updated": "2026-04-10T17:20:04Z"
+}
+```
+
+### Category index
+
+```text
+categories/<category>/
+├── fonts.json        # all fonts in this category
+├── subsets.json      # all subsets used in this category
+└── <subset>/
+    └── fonts.json    # fonts in this category + subset
+```
+
+### Subset index
+
+```text
+subsets/<subset>/
+├── fonts.json        # all fonts in this subset
+├── categories.json   # categories that appear in this subset
+└── <category>/
+    └── fonts.json    # fonts in this subset + category
+```
+
+### Per-font metadata
+
+```json
+// fonts/abeezee.json
+{
+  "family": "ABeeZee",
+  "slug": "abeezee",
+  "categories": ["sans-serif"],
+  "subsets": ["latin", "latin-ext"],
+  "variants": ["regular", "italic"],
+  "version": "v23",
+  "lastModified": "2025-09-08"
+}
+```
+
+## Generating the manifests
+
+```bash
+./generate-font-manifests.sh              # uses webfonts.json
+./generate-font-manifests.sh custom.json  # uses your own file
+```
+
+The script cleans previous output, generates all index files, and writes a fresh `updated.json` timestamp.
 
 ## Common use cases
 
@@ -93,7 +147,7 @@ curl https://cdn.jsdelivr.net/gh/hasinhayder/google-fonts@latest/fonts.json
 curl https://cdn.jsdelivr.net/gh/hasinhayder/google-fonts/subsets/latin/display/fonts.json
 
 # Fonts in a specific category and subset
-curl https://cdn.jsdelivr.net/gh/hasinhayder/google-fonts/categories/display/latin/fonts.json
+curl https://cdn.jsdelivr.net/gh/hasinhayder/google-fonts/categories/sans-serif/latin/fonts.json
 ```
 
 ### Versioned URLs
