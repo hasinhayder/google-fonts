@@ -1,0 +1,646 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Fonts Index</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Instrument+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+        :root {
+            --bg: #fcfcfc;
+            --surface: #ffffff;
+            --text: #1a1a1a;
+            --text-secondary: #737373;
+            --text-tertiary: #a3a3a3;
+            --border: #e8e8e8;
+            --border-light: #f0f0f0;
+            --accent: #4a4a4a;
+            --code-bg: #141414;
+            --mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+            --sans: 'Instrument Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+            --serif: 'Instrument Serif', Georgia, serif;
+            --max-w: 740px;
+        }
+
+        [data-theme="dark"] {
+            --bg: #0e0e0e;
+            --surface: #161616;
+            --text: #e5e5e5;
+            --text-secondary: #999;
+            --text-tertiary: #555;
+            --border: #262626;
+            --border-light: #1e1e1e;
+            --accent: #ccc;
+            --code-bg: #0a0a0a;
+        }
+
+        html { scroll-behavior: smooth; font-size: 125%; }
+
+        body {
+            font-family: var(--sans);
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.65;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        /* Grain overlay */
+        body::after {
+            content: '';
+            position: fixed;
+            inset: 0;
+            pointer-events: none;
+            z-index: 9999;
+            opacity: 0.3;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.04'/%3E%3C/svg%3E");
+            background-repeat: repeat;
+            background-size: 200px;
+        }
+
+        .wrap { max-width: var(--max-w); margin: 0 auto; padding: 0 32px; }
+
+        /* ── Header ── */
+        header {
+            border-bottom: 1px solid var(--border);
+            background: var(--bg);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+        }
+        header .wrap {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            height: 56px;
+        }
+        .logo {
+            font-size: 0.8125rem;
+            font-weight: 500;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            color: var(--text);
+        }
+        .logo .dot { color: var(--text-tertiary); }
+
+        .nav-link {
+            font-size: 0.8125rem;
+            color: var(--text-secondary);
+            text-decoration: none;
+            letter-spacing: 0.02em;
+            transition: color 0.2s;
+        }
+        .nav-link:hover { color: var(--text); }
+
+        /* ── Hero ── */
+        .hero {
+            padding: 96px 0 96px;
+        }
+        .hero-label {
+            font-size: 0.6875rem;
+            font-weight: 500;
+            letter-spacing: 0.16em;
+            text-transform: uppercase;
+            color: var(--text-tertiary);
+            margin-bottom: 32px;
+        }
+        .hero h1 {
+            font-family: var(--serif);
+            font-size: clamp(2.75rem, 7vw, 4.25rem);
+            font-weight: 400;
+            line-height: 1.08;
+            letter-spacing: -0.025em;
+            color: var(--text);
+            margin-bottom: 28px;
+        }
+        .hero h1 em {
+            font-style: italic;
+            color: var(--text-secondary);
+        }
+        .hero-desc {
+            font-size: 1.0625rem;
+            color: var(--text-secondary);
+            max-width: 480px;
+            line-height: 1.7;
+            margin-bottom: 48px;
+        }
+        .hero-actions { display: flex; gap: 16px; align-items: center; flex-wrap: wrap; }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            font-family: var(--sans);
+            font-size: 0.8125rem;
+            font-weight: 500;
+            text-decoration: none;
+            letter-spacing: 0.01em;
+            transition: all 0.2s;
+        }
+        .btn-dark {
+            background: var(--text);
+            color: var(--bg);
+            padding: 10px 24px;
+            border-radius: 6px;
+        }
+        .btn-dark:hover { opacity: 0.8; }
+        .btn-dark svg { opacity: 0.7; }
+        .btn-ghost {
+            color: var(--text-secondary);
+            padding: 10px 0;
+        }
+        .btn-ghost:hover { color: var(--text); }
+        .btn-ghost .arrow {
+            display: inline-block;
+            transition: transform 0.25s ease;
+        }
+        .btn-ghost:hover .arrow { transform: translateX(4px); }
+
+        /* ── Divider ── */
+        .divider {
+            border: none;
+            border-top: 1px solid var(--border);
+            margin: 0;
+        }
+
+        /* ── Stats ── */
+        .stats-section { padding: 48px 0; }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 0;
+        }
+        .stat {
+            text-align: left;
+            padding: 0;
+        }
+        .stat + .stat { border-left: 1px solid var(--border-light); padding-left: 24px; }
+        .stat-value {
+            font-size: 1.5rem;
+            font-weight: 600;
+            letter-spacing: -0.03em;
+            color: var(--text);
+            font-variant-numeric: tabular-nums;
+        }
+        .stat-label {
+            font-size: 0.6875rem;
+            color: var(--text-tertiary);
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            margin-top: 2px;
+        }
+
+        /* ── Section common ── */
+        .section { padding: 80px 0; }
+        .section-header { margin-bottom: 48px; }
+        .section-label {
+            font-size: 0.6875rem;
+            font-weight: 500;
+            letter-spacing: 0.16em;
+            text-transform: uppercase;
+            color: var(--text-tertiary);
+            margin-bottom: 12px;
+        }
+        .section-title {
+            font-family: var(--serif);
+            font-size: 1.75rem;
+            font-weight: 400;
+            letter-spacing: -0.02em;
+            color: var(--text);
+        }
+
+        /* ── Features ── */
+        .features {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 0;
+        }
+        .feature {
+            padding: 28px 0;
+            border-bottom: 1px solid var(--border-light);
+            transition: opacity 0.2s;
+        }
+        .feature:nth-child(odd) { padding-right: 32px; }
+        .feature:nth-child(even) { padding-left: 32px; border-left: 1px solid var(--border-light); }
+        .feature:nth-last-child(-n+2) { border-bottom: none; }
+        .feature:hover { opacity: 0.7; }
+        .feature h3 {
+            font-size: 0.875rem;
+            font-weight: 600;
+            margin-bottom: 6px;
+            letter-spacing: -0.01em;
+        }
+        .feature p {
+            font-size: 0.8125rem;
+            color: var(--text-secondary);
+            line-height: 1.6;
+        }
+        .feature-num {
+            font-size: 0.6875rem;
+            color: var(--text-tertiary);
+            letter-spacing: 0.08em;
+            margin-bottom: 12px;
+            font-variant-numeric: tabular-nums;
+        }
+
+        /* ── Code ── */
+        .code-block-wrap {
+            position: relative;
+            border-radius: 8px;
+            overflow: hidden;
+            border: 1px solid var(--border);
+        }
+        .code-block-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 12px 20px;
+            background: var(--border-light);
+            border-bottom: 1px solid var(--border);
+        }
+        .code-block-filename {
+            font-family: var(--mono);
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+        }
+        .code-block-lang {
+            font-size: 0.6875rem;
+            color: var(--text-tertiary);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+        }
+        .code-block {
+            background: var(--code-bg);
+            color: #c8c8c8;
+            padding: 24px 20px;
+            overflow-x: auto;
+            font-size: 0.8125rem;
+            line-height: 1.9;
+            font-family: var(--mono);
+        }
+        .code-block .comment { color: #555; }
+        .code-block .key { color: #8b8bcc; }
+        .code-block .str { color: #6aab73; }
+        .code-block .brace { color: #666; }
+
+        /* ── CDN ── */
+        .cdn-list { display: flex; flex-direction: column; }
+        .cdn-item {
+            display: grid;
+            grid-template-columns: 180px 1fr;
+            gap: 16px 32px;
+            padding: 20px 0;
+            border-bottom: 1px solid var(--border-light);
+            align-items: baseline;
+            transition: opacity 0.2s;
+        }
+        .cdn-item:last-child { border-bottom: none; }
+        .cdn-item:hover { opacity: 0.65; }
+        .cdn-label {
+            font-size: 0.8125rem;
+            font-weight: 600;
+            color: var(--text);
+        }
+        .cdn-url {
+            font-family: var(--mono);
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            word-break: break-all;
+            line-height: 1.6;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+        .cdn-url:hover { color: var(--text); }
+        .cdn-desc {
+            grid-column: 2;
+            font-size: 0.8125rem;
+            color: var(--text-tertiary);
+            line-height: 1.5;
+            margin-top: 2px;
+        }
+
+        /* ── Footer ── */
+        footer {
+            border-top: 1px solid var(--border);
+            padding: 40px 0;
+        }
+        footer .wrap {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        footer p {
+            font-size: 0.75rem;
+            color: var(--text-tertiary);
+            letter-spacing: 0.01em;
+        }
+        footer a {
+            color: var(--text-secondary);
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+        footer a:hover { color: var(--text); }
+
+        /* ── Entrance Animations ── */
+        .fade-in {
+            opacity: 0;
+            transform: translateY(12px);
+            animation: fadeUp 0.6s ease forwards;
+        }
+        .fade-in-d1 { animation-delay: 0.1s; }
+        .fade-in-d2 { animation-delay: 0.2s; }
+        .fade-in-d3 { animation-delay: 0.35s; }
+        .fade-in-d4 { animation-delay: 0.5s; }
+        .fade-in-d5 { animation-delay: 0.65s; }
+
+        @keyframes fadeUp {
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* ── Responsive ── */
+        @media (max-width: 640px) {
+            .wrap { padding: 0 20px; }
+            .hero { padding: 80px 0 64px; }
+            .stats { grid-template-columns: repeat(3, 1fr); gap: 20px 0; }
+            .stat + .stat { border-left: none; padding-left: 0; }
+            .features { grid-template-columns: 1fr; }
+            .feature:nth-child(odd),
+            .feature:nth-child(even) {
+                padding-left: 0;
+                padding-right: 0;
+                border-left: none;
+            }
+            .cdn-item { grid-template-columns: 1fr; }
+            .cdn-desc { grid-column: 1; }
+            footer .wrap { flex-direction: column; gap: 8px; text-align: center; }
+        }
+        /* ── Theme Toggle ── */
+        .theme-toggle {
+            background: none;
+            border: none;
+            cursor: pointer;
+            padding: 6px;
+            color: var(--text-secondary);
+            transition: color 0.2s;
+            display: flex;
+            align-items: center;
+        }
+        .theme-toggle:hover { color: var(--text); }
+        .theme-toggle svg { width: 16px; height: 16px; }
+        .theme-toggle .icon-sun { display: none; }
+        [data-theme="dark"] .theme-toggle .icon-moon { display: none; }
+        [data-theme="dark"] .theme-toggle .icon-sun { display: block; }
+
+        .header-actions { display: flex; align-items: center; gap: 16px; }
+    </style>
+</head>
+<body>
+
+<header>
+    <div class="wrap">
+        <div class="logo">google<span class="dot">.</span>fonts index</div>
+        <div class="header-actions">
+            <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme">
+                <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+                <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+            </button>
+            <a href="https://github.com/hasinhayder/google-fonts" class="nav-link">GitHub</a>
+        </div>
+    </div>
+</header>
+
+<main>
+    <!-- Hero -->
+    <section class="hero">
+        <div class="wrap">
+            <p class="hero-label fade-in">Open Source</p>
+            <h1 class="fade-in fade-in-d1">Google Fonts,<br><em>structured as JSON</em></h1>
+            <p class="hero-desc fade-in fade-in-d2">A lightweight, queryable index of the entire Google Fonts catalog - organized by category and subset, ready to ship.</p>
+            <div class="hero-actions fade-in fade-in-d3">
+                <a href="https://github.com/hasinhayder/google-fonts" class="btn btn-dark">
+                    <svg width="14" height="14" fill="currentColor" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+                    Source Code
+                </a>
+                <a href="#cdn" class="btn btn-ghost">
+                    Use via CDN <span class="arrow">&rarr;</span>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <hr class="divider">
+
+    <!-- Stats -->
+    <section class="stats-section">
+        <div class="wrap">
+            <div class="stats fade-in fade-in-d2">
+                <div class="stat">
+                    <div class="stat-value" id="stat-fonts">&mdash;</div>
+                    <div class="stat-label">Families</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-value" id="stat-categories">&mdash;</div>
+                    <div class="stat-label">Categories</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-value" id="stat-subsets">&mdash;</div>
+                    <div class="stat-label">Subsets</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-value">MIT</div>
+                    <div class="stat-label">License</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <hr class="divider">
+
+    <!-- Features -->
+    <section class="section">
+        <div class="wrap">
+            <div class="section-header fade-in">
+                <p class="section-label">Use cases</p>
+                <h2 class="section-title">Skip the API. Ship faster.</h2>
+            </div>
+            <div class="features">
+                <div class="feature fade-in fade-in-d1">
+                    <div class="feature-num">01</div>
+                    <h3>Font Pickers & Filters</h3>
+                    <p>Populate dropdowns and build filter UIs with pre-sorted category and subset lists.</p>
+                </div>
+                <div class="feature fade-in fade-in-d2">
+                    <div class="feature-num">02</div>
+                    <h3>Subset-Aware Previews</h3>
+                    <p>Show only fonts that support a given script &mdash; Arabic, Devanagari, Cyrillic, and more.</p>
+                </div>
+                <div class="feature fade-in fade-in-d3">
+                    <div class="feature-num">03</div>
+                    <h3>Autocomplete & Search</h3>
+                    <p>Load a lightweight JSON index instead of hitting the Google Fonts API at runtime.</p>
+                </div>
+                <div class="feature fade-in fade-in-d4">
+                    <div class="feature-num">04</div>
+                    <h3>CDN-Ready</h3>
+                    <p>Access every file via jsDelivr &mdash; versioned, cached, and globally distributed.</p>
+                </div>
+                <div class="feature fade-in fade-in-d4">
+                    <div class="feature-num">05</div>
+                    <h3>Design Systems</h3>
+                    <p>Validate typography tokens against the real Google Fonts catalog at build time.</p>
+                </div>
+                <div class="feature fade-in fade-in-d5">
+                    <div class="feature-num">06</div>
+                    <h3>Static Site Generation</h3>
+                    <p>Pre-render font preview cards, style guides, or comparison tables during your build.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <hr class="divider">
+
+    <hr class="divider">
+
+    <!-- CDN -->
+    <section class="section" id="cdn">
+        <div class="wrap">
+            <div class="section-header fade-in">
+                <p class="section-label">CDN</p>
+                <h2 class="section-title">Every file, one URL away.</h2>
+            </div>
+            <div class="cdn-list">
+                <div class="cdn-item fade-in fade-in-d1">
+                    <span class="cdn-label">All fonts</span>
+                    <div>
+                        <a href="https://cdn.jsdelivr.net/gh/hasinhayder/google-fonts/fonts.json" target="_blank" rel="noopener" class="cdn-url">cdn.jsdelivr.net/gh/hasinhayder/google-fonts/fonts.json</a>
+                        <p class="cdn-desc">Complete sorted list of every font family in the catalog.</p>
+                    </div>
+                </div>
+                <div class="cdn-item fade-in fade-in-d2">
+                    <span class="cdn-label">Categories</span>
+                    <div>
+                        <a href="https://cdn.jsdelivr.net/gh/hasinhayder/google-fonts/categories.json" target="_blank" rel="noopener" class="cdn-url">cdn.jsdelivr.net/gh/hasinhayder/google-fonts/categories.json</a>
+                        <p class="cdn-desc">Available font categories: display, handwriting, monospace, sans-serif, serif.</p>
+                    </div>
+                </div>
+                <div class="cdn-item fade-in fade-in-d2">
+                    <span class="cdn-label">Subsets</span>
+                    <div>
+                        <a href="https://cdn.jsdelivr.net/gh/hasinhayder/google-fonts/subsets.json" target="_blank" rel="noopener" class="cdn-url">cdn.jsdelivr.net/gh/hasinhayder/google-fonts/subsets.json</a>
+                        <p class="cdn-desc">All script and language subsets supported across the catalog.</p>
+                    </div>
+                </div>
+                <div class="cdn-item fade-in fade-in-d3">
+                    <span class="cdn-label">By subset + category</span>
+                    <div>
+                        <a href="https://cdn.jsdelivr.net/gh/hasinhayder/google-fonts/subsets/latin/display/fonts.json" target="_blank" rel="noopener" class="cdn-url">cdn.jsdelivr.net/gh/hasinhayder/google-fonts/subsets/latin/display/fonts.json</a>
+                        <p class="cdn-desc">All display fonts that support the latin subset.</p>
+                    </div>
+                </div>
+                <div class="cdn-item fade-in fade-in-d3">
+                    <span class="cdn-label">By category + subset</span>
+                    <div>
+                        <a href="https://cdn.jsdelivr.net/gh/hasinhayder/google-fonts/categories/sans-serif/latin/fonts.json" target="_blank" rel="noopener" class="cdn-url">cdn.jsdelivr.net/gh/hasinhayder/google-fonts/categories/sans-serif/latin/fonts.json</a>
+                        <p class="cdn-desc">All sans-serif fonts with latin subset support.</p>
+                    </div>
+                </div>
+                <div class="cdn-item fade-in fade-in-d4">
+                    <span class="cdn-label">Subset categories</span>
+                    <div>
+                        <a href="https://cdn.jsdelivr.net/gh/hasinhayder/google-fonts/subsets/arabic/categories.json" target="_blank" rel="noopener" class="cdn-url">cdn.jsdelivr.net/gh/hasinhayder/google-fonts/subsets/arabic/categories.json</a>
+                        <p class="cdn-desc">Which categories contain fonts with Arabic script.</p>
+                    </div>
+                </div>
+                <div class="cdn-item fade-in fade-in-d4">
+                    <span class="cdn-label">Single font</span>
+                    <div>
+                        <a href="https://cdn.jsdelivr.net/gh/hasinhayder/google-fonts/fonts/inter.json" target="_blank" rel="noopener" class="cdn-url">cdn.jsdelivr.net/gh/hasinhayder/google-fonts/fonts/inter.json</a>
+                        <p class="cdn-desc">Full metadata for a single font: variants, subsets, version, and last modified date.</p>
+                    </div>
+                </div>
+                <div class="cdn-item fade-in fade-in-d5">
+                    <span class="cdn-label">Pinned version</span>
+                    <div>
+                        <a href="https://cdn.jsdelivr.net/gh/hasinhayder/google-fonts@v1.3.1/fonts.json" target="_blank" rel="noopener" class="cdn-url">cdn.jsdelivr.net/gh/hasinhayder/google-fonts@v1.3.1/fonts.json</a>
+                        <p class="cdn-desc">Pin to a git tag for cache stability and reproducible builds.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+
+<footer>
+    <div class="wrap">
+        <p>Built by <a href="https://github.com/hasinhayder">Hasin Hayder</a></p>
+        <p><a href="https://github.com/hasinhayder/google-fonts">Source</a> &middot; MIT License &middot; <span id="stat-updated">Updated</span></p>
+    </div>
+</footer>
+
+<script>
+    const BASE = 'https://cdn.jsdelivr.net/gh/hasinhayder/google-fonts';
+
+    async function loadStats() {
+        try {
+            const [fonts, categories, subsets, updated] = await Promise.all([
+                fetch(`${BASE}/fonts.json`).then(r => r.json()),
+                fetch(`${BASE}/categories.json`).then(r => r.json()),
+                fetch(`${BASE}/subsets.json`).then(r => r.json()),
+                fetch(`${BASE}/updated.json`).then(r => r.json()),
+            ]);
+            document.getElementById('stat-fonts').textContent = fonts.fonts.length.toLocaleString();
+            document.getElementById('stat-categories').textContent = categories.categories.length;
+            document.getElementById('stat-subsets').textContent = subsets.subsets.length;
+            if (updated.last_updated) {
+                const d = new Date(updated.last_updated);
+                document.getElementById('stat-updated').textContent = 'Updated ' + d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+            }
+        } catch {}
+    }
+    loadStats();
+
+    // Intersection Observer for scroll-triggered fade-in
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.style.animationPlayState = 'running';
+                observer.unobserve(entry.target);
+            }
+        });
+    }, { threshold: 0.1 });
+
+    document.querySelectorAll('.fade-in').forEach(el => {
+        el.style.animationPlayState = 'paused';
+        observer.observe(el);
+    });
+
+    // Allow hero animations to play immediately
+    document.querySelectorAll('.hero .fade-in').forEach(el => {
+        el.style.animationPlayState = 'running';
+    });
+
+    // Theme toggle
+    const toggle = document.getElementById('theme-toggle');
+    const html = document.documentElement;
+    const stored = localStorage.getItem('theme');
+
+    if (stored === 'dark' || (!stored && matchMedia('(prefers-color-scheme: dark)').matches)) {
+        html.setAttribute('data-theme', 'dark');
+    }
+
+    toggle.addEventListener('click', () => {
+        const isDark = html.getAttribute('data-theme') === 'dark';
+        html.setAttribute('data-theme', isDark ? 'light' : 'dark');
+        localStorage.setItem('theme', isDark ? 'light' : 'dark');
+    });
+</script>
+
+</body>
+</html>
