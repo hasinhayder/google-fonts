@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "adlam",
+    "arabic",
+    "armenian",
+    "bengali",
+    "cyrillic",
+    "cyrillic-ext",
+    "devanagari",
+    "emoji",
+    "ethiopic",
+    "glagolitic",
+    "greek",
+    "greek-ext",
+    "gujarati",
+    "gurmukhi",
+    "hebrew",
+    "japanese",
+    "kannada",
+    "khmer",
+    "korean",
+    "latin",
+    "latin-ext",
+    "malayalam",
+    "math",
+    "oriya",
+    "symbols",
+    "tamil",
+    "telugu",
+    "thai",
+    "vietnamese"
+  ]
+}

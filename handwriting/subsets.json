@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "arabic",
+    "cherokee",
+    "chinese-simplified",
+    "chinese-traditional",
+    "cyrillic",
+    "cyrillic-ext",
+    "devanagari",
+    "emoji",
+    "greek",
+    "greek-ext",
+    "hebrew",
+    "japanese",
+    "korean",
+    "latin",
+    "latin-ext",
+    "lisu",
+    "malayalam",
+    "math",
+    "symbols",
+    "symbols2",
+    "tamil",
+    "telugu",
+    "thai",
+    "vietnamese"
+  ]
+}
