@@ -18,24 +18,28 @@ The dataset is split into top-level manifests and nested folders so it is easy t
 
 ```text
 .
-├── categories.json
-├── fonts.json
-├── subsets.json
-├── updated.json
+├── fonts.json                          → all font families
+├── categories.json                     → all categories
+├── subsets.json                        → all subsets
+├── fonts/
+│   └── inter.json                      → per-font metadata
+│   └── ...                             → 1,900+ more
 ├── categories/
-│   └── <category>/
-│       ├── fonts.json
-│       ├── subsets.json
-│       └── <subset>/
-│           └── fonts.json
-├── subsets/
-│   └── <subset>/
-│       ├── fonts.json
-│       ├── categories.json
-│       └── <category>/
-│           └── fonts.json
-└── fonts/
-    └── <slug>.json
+│   ├── display/
+│   │   ├── fonts.json                  → all display fonts
+│   │   ├── subsets.json                → all subsets in display
+│   │   ├── latin/
+│   │   │   └── fonts.json              → display + latin
+│   │   └── ...                         → 40+ more subsets
+│   ├── handwriting/
+│   ├── monospace/
+│   ├── sans-serif/
+│   └── serif/
+└── subsets/
+    ├── latin/
+    │   ├── fonts.json                  → all fonts with Latin script
+    │   └── categories.json             → which categories include Latin
+    └── ...                             → 180+ more subsets
 ```
 
 ## Data format
