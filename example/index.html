@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Fonts Preview</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Instrument+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+        :root {
+            --bg: #fcfcfc;
+            --surface: #ffffff;
+            --text: #1a1a1a;
+            --text-secondary: #737373;
+            --text-tertiary: #a3a3a3;
+            --border: #e8e8e8;
+            --border-light: #f0f0f0;
+            --accent: #4a4a4a;
+            --mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+            --sans: 'Instrument Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+            --serif: 'Instrument Serif', Georgia, serif;
+            --preview-size: 32px;
+        }
+
+        [data-theme="dark"] {
+            --bg: #0e0e0e;
+            --surface: #161616;
+            --text: #e5e5e5;
+            --text-secondary: #999;
+            --text-tertiary: #555;
+            --border: #262626;
+            --border-light: #1e1e1e;
+            --accent: #ccc;
+        }
+
+        body {
+            font-family: var(--sans);
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.65;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Grain overlay (match index.html) */
+        body::after {
+            content: '';
+            position: fixed;
+            inset: 0;
+            pointer-events: none;
+            z-index: 9999;
+            opacity: 0.3;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.04'/%3E%3C/svg%3E");
+            background-repeat: repeat;
+            background-size: 200px;
+        }
+
+        /* Scrollbars (match index.html) */
+        ::-webkit-scrollbar { width: 8px; height: 6px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb {
+            background: var(--border);
+            border-radius: 999px;
+        }
+        ::-webkit-scrollbar-thumb:hover { background: var(--text-tertiary); }
+        * { scrollbar-width: thin; scrollbar-color: var(--border) transparent; }
+
+        /* ── Header (match index.html) ── */
+        header {
+            border-bottom: 1px solid var(--border);
+            background: var(--bg);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            padding: 16px 32px;
+        }
+
+        .toolbar {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            max-width: 1400px;
+            margin: 0 auto;
+            flex-wrap: wrap;
+        }
+
+        .logo {
+            font-size: 0.8125rem;
+            font-weight: 500;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            color: var(--text);
+            text-decoration: none;
+            margin-right: auto;
+        }
+        .logo .dot { color: var(--text-tertiary); }
+
+        .input, .select {
+            padding: 10px 14px;
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            background: var(--surface);
+            color: var(--text);
+            font-size: 0.875rem;
+            font-family: var(--sans);
+            outline: none;
+            transition: border-color 0.2s;
+        }
+        .input:focus, .select:focus { border-color: var(--text-tertiary); }
+
+        .input-preview { flex: 1; min-width: 250px; max-width: 400px; }
+
+        .select-cat { width: 180px; }
+        .select-sub { width: 180px; }
+
+        .slider-group {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 0 12px;
+        }
+        .slider-label {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        .slider {
+            -webkit-appearance: none;
+            width: 100px;
+            height: 4px;
+            background: var(--border);
+            border-radius: 2px;
+            outline: none;
+        }
+        .slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            background: var(--text);
+            cursor: pointer;
+        }
+
+        /* Theme Toggle (match index.html) */
+        .theme-toggle {
+            background: none;
+            border: none;
+            cursor: pointer;
+            padding: 6px;
+            color: var(--text-secondary);
+            transition: color 0.2s;
+            display: flex;
+            align-items: center;
+        }
+        .theme-toggle:hover { color: var(--text); }
+        .theme-toggle svg { width: 16px; height: 16px; }
+        .theme-toggle .icon-sun { display: none; }
+        [data-theme="dark"] .theme-toggle .icon-moon { display: none; }
+        [data-theme="dark"] .theme-toggle .icon-sun { display: block; }
+
+        /* ── Main ── */
+        main {
+            padding: 40px 32px;
+            max-width: 1400px;
+            margin: 0 auto;
+            flex: 1;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 32px;
+        }
+
+        .font-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 24px;
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+            transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+            position: relative;
+        }
+        .font-card:hover {
+            border-color: var(--text-tertiary);
+            transform: translateY(-2px);
+            box-shadow: 0 8px 24px rgba(0,0,0,0.03);
+        }
+        [data-theme="dark"] .font-card:hover { box-shadow: 0 8px 24px rgba(0,0,0,0.2); }
+
+        .font-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .font-name {
+            font-family: var(--mono);
+            font-size: 0.8125rem;
+            font-weight: 500;
+            color: var(--text-secondary);
+            letter-spacing: -0.01em;
+        }
+        .font-link {
+            color: var(--text-tertiary);
+            transition: color 0.2s;
+        }
+        .font-link:hover { color: var(--text); }
+
+        .font-preview {
+            font-size: var(--preview-size);
+            line-height: 1.25;
+            outline: none;
+            word-wrap: break-word;
+            min-height: calc(var(--preview-size) * 1.5);
+            color: var(--text);
+            transition: font-size 0.2s;
+        }
+        .font-preview:empty::before {
+            content: attr(placeholder);
+            color: var(--text-tertiary);
+            pointer-events: none;
+        }
+
+        .loader {
+            text-align: center;
+            padding: 40px 0;
+            color: var(--text-tertiary);
+            font-size: 0.75rem;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+        }
+
+        /* ── Footer (match index.html) ── */
+        footer {
+            border-top: 1px solid var(--border);
+            padding: 40px 32px;
+        }
+        footer .wrap {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        footer p {
+            font-size: 0.75rem;
+            color: var(--text-tertiary);
+            letter-spacing: 0.01em;
+        }
+        footer a {
+            color: var(--text-secondary);
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+        footer a:hover { color: var(--text); }
+
+        /* ── Animations (match index.html) ── */
+        .fade-in {
+            opacity: 0;
+            transform: translateY(12px);
+            animation: fadeUp 0.5s ease forwards;
+        }
+        @keyframes fadeUp {
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        @media (max-width: 768px) {
+            header { padding: 16px; }
+            main { padding: 24px 16px; }
+            .toolbar { gap: 12px; }
+            .input-preview { flex: 1; min-width: 100%; }
+            .slider-group { width: 100%; justify-content: space-between; }
+            footer .wrap { flex-direction: column; gap: 8px; text-align: center; }
+            .grid { grid-template-columns: repeat(2, 1fr); }
+            footer { padding: 32px 16px; }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <div class="toolbar">
+        <a href="../" class="logo">google<span class="dot">.</span>fonts<span class="dot">.</span>preview</a>
+
+        <input type="text" id="preview-input" class="input input-preview" placeholder="Type here to change preview text">
+
+        <select id="category" class="select select-cat">
+            <option value="all">All Categories</option>
+            <option value="display">Display</option>
+            <option value="handwriting">Handwriting</option>
+            <option value="monospace">Monospace</option>
+            <option value="sans-serif">Sans Serif</option>
+            <option value="serif">Serif</option>
+        </select>
+
+        <select id="subset" class="select select-sub" disabled>
+            <option value="all">All Subsets</option>
+        </select>
+
+        <div class="slider-group">
+            <span class="slider-label">Size</span>
+            <input type="range" id="size-slider" min="16" max="96" value="32" class="slider">
+        </div>
+
+        <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme">
+            <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+            <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+        </button>
+    </div>
+</header>
+
+<main>
+    <div id="grid" class="grid"></div>
+    <div id="loader" class="loader">Loading...</div>
+</main>
+
+<footer>
+    <div class="wrap">
+        <p>Powered by <a href="https://fonts.google.com" target="_blank" rel="noopener">Google Fonts</a></p>
+        <p><a href="https://github.com/hasinhayder/google-fonts">Source</a> &middot; MIT License</p>
+    </div>
+</footer>
+
+<script>
+    const BASE = 'https://cdn.jsdelivr.net/gh/hasinhayder/google-fonts';
+
+    let allCategoryFonts = [];
+    let filteredFonts = [];
+    let page = 0;
+    const pageSize = 24;
+    let previewText = "Almost before we knew it, we had left the ground.";
+    let loadedFonts = new Set();
+
+    const grid = document.getElementById('grid');
+    const loader = document.getElementById('loader');
+    const previewInput = document.getElementById('preview-input');
+    const categorySelect = document.getElementById('category');
+    const subsetSelect = document.getElementById('subset');
+    const sizeSlider = document.getElementById('size-slider');
+
+    // Theme toggle (match index.html)
+    const toggle = document.getElementById('theme-toggle');
+    const html = document.documentElement;
+    const stored = localStorage.getItem('theme');
+    if (stored === 'dark' || (!stored && matchMedia('(prefers-color-scheme: dark)').matches)) {
+        html.setAttribute('data-theme', 'dark');
+    }
+    toggle.addEventListener('click', () => {
+        const isDark = html.getAttribute('data-theme') === 'dark';
+        html.setAttribute('data-theme', isDark ? 'light' : 'dark');
+        localStorage.setItem('theme', isDark ? 'light' : 'dark');
+    });
+
+    async function init() {
+        const observer = new IntersectionObserver((entries) => {
+            if(entries[0].isIntersecting) {
+                renderPage();
+            }
+        }, { rootMargin: '400px' });
+        observer.observe(loader);
+
+        await loadSubsets('all');
+        await loadFonts();
+    }
+
+    async function loadSubsets(cat) {
+        try {
+            const url = cat === 'all' ? `${BASE}/subsets.json` : `${BASE}/categories/${cat}/subsets.json`;
+            const res = await fetch(url);
+            const data = await res.json();
+            subsetSelect.innerHTML = '<option value="all">All Subsets</option>';
+            data.subsets.forEach(s => subsetSelect.add(new Option(s, s)));
+            subsetSelect.disabled = false;
+        } catch (e) {
+            console.error('Failed to load subsets:', e);
+        }
+    }
+
+    async function loadFonts() {
+        loader.style.display = 'block';
+        try {
+            const cat = categorySelect.value;
+            const sub = subsetSelect.value;
+            let url;
+
+            if (cat === 'all' && sub === 'all') {
+                url = `${BASE}/fonts.json`;
+            } else if (cat !== 'all' && sub === 'all') {
+                url = `${BASE}/categories/${cat}/fonts.json`;
+            } else if (cat === 'all' && sub !== 'all') {
+                url = `${BASE}/subsets/${sub}/fonts.json`;
+            } else {
+                url = `${BASE}/categories/${cat}/${sub}/fonts.json`;
+            }
+
+            const res = await fetch(url);
+            const data = await res.json();
+            allCategoryFonts = data.fonts;
+            filterAndReset();
+        } catch (e) {
+            console.error('Failed to load fonts:', e);
+            loader.textContent = 'Failed to load fonts.';
+        }
+    }
+
+    function filterAndReset() {
+        filteredFonts = allCategoryFonts;
+
+        grid.innerHTML = '';
+        page = 0;
+        loader.style.display = 'block';
+        renderPage();
+    }
+
+    function loadGoogleFont(fontName) {
+        if (loadedFonts.has(fontName)) return;
+        loadedFonts.add(fontName);
+        const link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.href = `https://fonts.googleapis.com/css2?family=${fontName.replace(/ /g, '+')}&display=swap`;
+        document.head.appendChild(link);
+    }
+
+    function renderPage() {
+        const start = page * pageSize;
+        const end = start + pageSize;
+        const toRender = filteredFonts.slice(start, end);
+
+        if (toRender.length === 0 && start >= filteredFonts.length) {
+            loader.style.display = 'none';
+            if (filteredFonts.length === 0) {
+                grid.innerHTML = '<div style="grid-column: 1/-1; text-align: center; color: var(--text-tertiary); padding: 40px 0;">No fonts found.</div>';
+            }
+            return;
+        }
+
+        toRender.forEach((font, index) => {
+            loadGoogleFont(font);
+
+            const card = document.createElement('div');
+            card.className = 'font-card fade-in';
+            card.style.animationDelay = `${(index % pageSize) * 0.05}s`;
+            card.innerHTML = `
+                <div class="font-meta">
+                    <div class="font-name">${font}</div>
+                    <a href="https://fonts.google.com/specimen/${font.replace(/ /g, '+')}" target="_blank" rel="noopener" class="font-link" title="View on Google Fonts">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/></svg>
+                    </a>
+                </div>
+                <div class="font-preview" style="font-family: '${font}', sans-serif;" contenteditable="true" spellcheck="false" placeholder="Type here...">${previewText}</div>
+            `;
+            grid.appendChild(card);
+        });
+
+        page++;
+        if (page * pageSize >= filteredFonts.length) {
+            loader.style.display = 'none';
+        }
+    }
+
+    categorySelect.addEventListener('change', async (e) => {
+        await loadSubsets(e.target.value);
+        await loadFonts();
+    });
+
+    subsetSelect.addEventListener('change', async () => {
+        await loadFonts();
+    });
+
+    previewInput.addEventListener('input', (e) => {
+        const val = e.target.value;
+        previewText = val || "Almost before we knew it, we had left the ground.";
+        document.querySelectorAll('.font-preview').forEach(el => {
+            if (document.activeElement !== el) {
+                el.textContent = previewText;
+            }
+        });
+    });
+
+    sizeSlider.addEventListener('input', (e) => {
+        document.documentElement.style.setProperty('--preview-size', e.target.value + 'px');
+    });
+
+    init();
+</script>
+
+</body>
+</html>
