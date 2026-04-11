@@ -19,7 +19,11 @@
             --border: #e8e8e8;
             --border-light: #f0f0f0;
             --accent: #4a4a4a;
-            --code-bg: #141414;
+            --code-bg: #f2f2f2;
+            --code-text: #3a3a3a;
+            --code-comment: #999;
+            --code-key: #7c5cbf;
+            --code-brace: #888;
             --mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
             --sans: 'Instrument Sans', -apple-system, BlinkMacSystemFont, sans-serif;
             --serif: 'Instrument Serif', Georgia, serif;
@@ -36,6 +40,10 @@
             --border-light: #1e1e1e;
             --accent: #ccc;
             --code-bg: #0a0a0a;
+            --code-text: #c8c8c8;
+            --code-comment: #555;
+            --code-key: #8b8bcc;
+            --code-brace: #666;
         }
 
         html { scroll-behavior: smooth; font-size: 125%; }
@@ -59,8 +67,8 @@
         ::-webkit-scrollbar-thumb:hover { background: var(--text-tertiary); }
         * { scrollbar-width: thin; scrollbar-color: var(--border) transparent; }
         .code-block::-webkit-scrollbar { height: 6px; }
-        .code-block::-webkit-scrollbar-thumb { background: #333; }
-        .code-block::-webkit-scrollbar-thumb:hover { background: #555; }
+        .code-block::-webkit-scrollbar-thumb { background: var(--code-brace); }
+        .code-block::-webkit-scrollbar-thumb:hover { background: var(--code-comment); }
 
         /* Grain overlay */
         body::after {
@@ -290,18 +298,20 @@
         }
         .code-block {
             background: var(--code-bg);
-            color: #c8c8c8;
+            color: var(--code-text);
             padding: 24px 20px;
             overflow-x: auto;
             font-size: 0.8125rem;
             line-height: 1.9;
             font-family: var(--mono);
             white-space: pre;
+            border: 1px solid var(--border);
+            border-radius: 8px;
         }
-        .code-block .comment { color: #555; }
-        .code-block .key { color: #8b8bcc; }
+        .code-block .comment { color: var(--code-comment); }
+        .code-block .key { color: var(--code-key); }
         .code-block .str { color: #6aab73; }
-        .code-block .brace { color: #666; }
+        .code-block .brace { color: var(--code-brace); }
         .code-line { white-space: pre; }
 
         /* ── CDN ── */
