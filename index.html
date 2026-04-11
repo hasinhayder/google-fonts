@@ -49,6 +49,19 @@
             -moz-osx-font-smoothing: grayscale;
         }
 
+        /* Scrollbars */
+        ::-webkit-scrollbar { width: 8px; height: 6px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb {
+            background: var(--border);
+            border-radius: 999px;
+        }
+        ::-webkit-scrollbar-thumb:hover { background: var(--text-tertiary); }
+        * { scrollbar-width: thin; scrollbar-color: var(--border) transparent; }
+        .code-block::-webkit-scrollbar { height: 6px; }
+        .code-block::-webkit-scrollbar-thumb { background: #333; }
+        .code-block::-webkit-scrollbar-thumb:hover { background: #555; }
+
         /* Grain overlay */
         body::after {
             content: '';
@@ -283,11 +296,13 @@
             font-size: 0.8125rem;
             line-height: 1.9;
             font-family: var(--mono);
+            white-space: pre;
         }
         .code-block .comment { color: #555; }
         .code-block .key { color: #8b8bcc; }
         .code-block .str { color: #6aab73; }
         .code-block .brace { color: #666; }
+        .code-line { white-space: pre; }
 
         /* ── CDN ── */
         .cdn-list { display: flex; flex-direction: column; }
@@ -505,6 +520,45 @@
     </section>
 
     <hr class="divider">
+
+    <!-- File Structure -->
+    <section class="section">
+        <div class="wrap">
+            <div class="section-header fade-in">
+                <p class="section-label">Structure</p>
+                <h2 class="section-title">How it's organized</h2>
+            </div>
+            <div class="code-block-wrap fade-in fade-in-d2">
+                <div class="code-block-header">
+                    <span class="code-block-filename">Repository layout</span>
+                    <span class="code-block-lang">tree</span>
+                </div>
+                <div class="code-block"><span class="comment">.</span>
+<span class="key">├──</span> fonts.json                          <span class="comment">→ all font families</span>
+<span class="key">├──</span> categories.json                     <span class="comment">→ all categories</span>
+<span class="key">├──</span> subsets.json                        <span class="comment">→ all subsets</span>
+<span class="key">├──</span> fonts/
+<span class="key">│   └──</span> inter.json                      <span class="comment">→ per-font metadata</span>
+<span class="key">│   └──</span> <span class="brace">...</span>                             <span class="comment">→ 1,900+ more</span>
+<span class="key">├──</span> categories/
+<span class="key">│   ├──</span> display/
+<span class="key">│   │   ├──</span> fonts.json                  <span class="comment">→ all display fonts</span>
+<span class="key">│   │   ├──</span> subsets.json                <span class="comment">→ all subsets in display</span>
+<span class="key">│   │   ├──</span> latin/
+<span class="key">│   │   │   └──</span> fonts.json              <span class="comment">→ display + latin</span>
+<span class="key">│   │   └──</span> <span class="brace">...</span>                         <span class="comment">→ 40+ more subsets</span>
+<span class="key">│   ├──</span> handwriting/
+<span class="key">│   ├──</span> monospace/
+<span class="key">│   ├──</span> sans-serif/
+<span class="key">│   └──</span> serif/
+<span class="key">└──</span> subsets/
+<span class="key">    ├──</span> latin/
+<span class="key">    │   ├──</span> fonts.json                  <span class="comment">→ all fonts with Latin script</span>
+<span class="key">    │   └──</span> categories.json             <span class="comment">→ which categories include Latin</span>
+<span class="key">    └──</span> <span class="brace">...</span>                             <span class="comment">→ 180+ more subsets</span></div>
+            </div>
+        </div>
+    </section>
 
     <hr class="divider">
 
